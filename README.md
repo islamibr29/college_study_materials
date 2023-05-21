@@ -15,7 +15,40 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 
 ## 💡 Illuminate the Cosmos
+
 In this boundless cosmos of knowledge, illumination knows no bounds. Together, we shall unveil the secrets of the universe, unravel the mysteries of science, and illuminate our minds with the brilliance of wisdom.
+
+## 📂 Mini Learning Projects
+
+Explore the vast collection of mini learning projects I have undertaken during my study time:
+
+### Digital Design Projects
+
+| Project Name  | Description                                      | Relevant Subjects     |
+| ------------- | ------------------------------------------------ | --------------------- |
+| ALU     | Brief description of the project and its relevance | Digital Design        |
+
+### Analog Design Projects
+
+| Project Name  | Description                                      | Relevant Subjects     |
+| ------------- | ------------------------------------------------ | --------------------- |
+
+### Embedded Systems Projects
+
+| Project Name  | Description                                      | Relevant Subjects     |
+| ------------- | ------------------------------------------------ | --------------------- |
+### CS Fundamentals Projects
+
+| Project Name  | Description                                      | Relevant Subjects     |
+| ------------- | ------------------------------------------------ | --------------------- |
+| All CS50 Labs     |  | CS Fundamentals       |
+
+
+### Other Dimensions Projects
+
+| Project Name  | Description                                      | Relevant Subjects     |
+| ------------- | ------------------------------------------------ | --------------------- |
+| Digital Avometer | | Measurements   |
 
 ## 🛸 Ascend to New Heights
 Let us ascend beyond the limitations of ordinary mortals and embrace the spirit of constant progress. As we soar through the stars of innovation, this repository shall evolve, with each moment propelling us toward new horizons.

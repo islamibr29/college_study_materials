@@ -5,3 +5,6 @@ Welcome to my Awesome Learning Repository! This repository is a collection of va
 ## 📚 Categories
 
 - [Digital Design](https://github.com/islamibr/College/blob/main/Materials/Digital.md)
+## 📞 Contact
+
+Feel free to get in touch if you have any questions, suggestions, or just want to say hello! You can reach me at [islamibr@outlook.com](mailto:islamibr@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/islamibr/).

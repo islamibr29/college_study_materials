@@ -8,6 +8,7 @@ Welcome to my Awesome Learning Repository! This repository is a collection of va
 - [Analog Design](https://github.com/islamibr/College/blob/main/Materials/Analog.md)
 - [Embedded Systems](https://github.com/islamibr/College/blob/main/Materials/Embedded.md)
 - [CS Fundamentals](https://github.com/islamibr/College/blob/main/Materials/CS.md)
+- [Other Subjects](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 
 ## 📞 Contact
 

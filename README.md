@@ -3,7 +3,7 @@
 
 ## 🚀 Embark on an Epic Odyssey
 
-Behold the Quantum Nexus, an interdimensional repository that transcends the boundaries of knowledge. Join me on a cosmic journey through the vast universe of Electronics and Communication Engineering, where galaxies of understanding await to be explored.
+Behold the Quantum Nexus, an interdimensional repository that transcends the boundaries of knowledge. [Join me](https://linktr.ee/bitwizofficial) on a cosmic journey through the vast universe of Electronics and Communication Engineering, where galaxies of understanding await to be explored.
 
 ## 📚 The Multiverse of Subjects
 Unleash the power of your curiosity as we traverse the multidimensional tapestry of learning. Prepare to encounter realms beyond imagination:
@@ -22,4 +22,4 @@ Let us ascend beyond the limitations of ordinary mortals and embrace the spirit 
 
 ## 📞 Join the Galactic Council
 
-Seeking fellow cosmic explorers! Join the Galactic Council of knowledge seekers, and let our collective wisdom ignite a beacon of inspiration across the universe. Reach out to me at [islamibr@outlook.com](mailto:islamibr@outlook.com) or find me on [LinkedIn](https://www.linkedin.com/in/islamibr).
+Seeking fellow cosmic explorers! Join the Galactic Council of knowledge seekers, and let our collective wisdom ignite a beacon of inspiration across the universe. [Reach out](https://linktr.ee/islamibr) to me at [islamibr@outlook.com](mailto:islamibr@outlook.com) or find me on [LinkedIn](https://www.linkedin.com/in/islamibr).

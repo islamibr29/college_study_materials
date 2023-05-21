@@ -8,11 +8,11 @@ Behold the Quantum Nexus, an interdimensional repository that transcends the bou
 ## 📚 The Multiverse of Subjects
 Unleash the power of your curiosity as we traverse the multidimensional tapestry of learning. Prepare to encounter realms beyond imagination:
 
-- [**Digital Design**](https://github.com/islamibr/College/blob/main/Materials/Digital.md): Unveil the hidden language of electrons and shape the fabric of reality with mesmerizing digital designs.
-- [**Analog Design**](https://github.com/islamibr/College/blob/main/Materials/Analog.md): Dive into the cosmic sea of signals and uncover the symphony of analog marvels that permeate our universe.
-- [**Embedded Systems**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md): Traverse the frontiers of technology, where silicon and software dance in a harmonious symphony of innovation.
-- [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md): Enter the digital matrix, where algorithms wield the power to reshape the very fabric of our virtual existence.
-- [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md): Venture into uncharted territories, where emerging frontiers and interdisciplinary wonders await to be discovered.
+- [**Digital Design**](https://github.com/islamibr/College/blob/main/Materials/Digital.md)
+- [**Analog Design**](https://github.com/islamibr/College/blob/main/Materials/Analog.md)
+- [**Embedded Systems**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md)
+- [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md)
+- [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 
 ## 💡 Illuminate the Cosmos
 In this boundless cosmos of knowledge, illumination knows no bounds. Together, we shall unveil the secrets of the universe, unravel the mysteries of science, and illuminate our minds with the brilliance of wisdom.

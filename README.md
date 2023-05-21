@@ -14,4 +14,4 @@
 | Instructor | Affiliation | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- |
 | [Eng. Khalid Essam](https://www.facebook.com/k.e.elsayed) | Alexandria University | [Tutorials](https://www.youtube.com/playlist?list=PLSFM7g7ViTRJeN5ifOi6_mE4dMUYft_e4), [Course Materials](https://courseske.blogspot.com/) | VHDL |
-| [Dr. Anas Salah Eddin](https://www.linkedin.com/in/anas-salah-eddin-857b47b/) | Cal Poly Pomona University | [Tutrials](https://www.youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr) | Verilog |
+| [Dr. Anas Salah Eddin](https://www.linkedin.com/in/anas-salah-eddin-857b47b/) | Cal Poly Pomona University | [Tutorials](https://www.youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr) | Verilog |

@@ -10,7 +10,7 @@
 ### Digital Circuits 
 | Instructor | Affiliation | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | Ain Shams University | [lectures](https://www.youtube.com/playlist?list=PLJzTGn9q7uHcCo8wONTcukPoE_nO7STPH), [Slides](https://drive.google.com/drive/folders/1svitO2jR2mw7Qhj1YsiK3i6kyv9A3qZV) | |
+| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLJzTGn9q7uHcCo8wONTcukPoE_nO7STPH), [Slides](https://drive.google.com/drive/folders/1svitO2jR2mw7Qhj1YsiK3i6kyv9A3qZV) | |
 | [Dr. Jan Rabaey](https://www.linkedin.com/in/jan-rabaey-9966636/) | UC Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7), [Slides](https://drive.google.com/drive/folders/10hvUT1O2tvxRrzxpA60WKpL2_w9KH395) | |
 
 

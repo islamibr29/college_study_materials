@@ -16,5 +16,4 @@
 | [Eng. Khalid Essam](https://www.facebook.com/k.e.elsayed) | Alexandria University | [Tutorials](https://www.youtube.com/playlist?list=PLSFM7g7ViTRJeN5ifOi6_mE4dMUYft_e4), [Course Materials](https://courseske.blogspot.com/) | VHDL |
 | [Dr. Anas Salah Eddin](https://www.linkedin.com/in/anas-salah-eddin-857b47b/) | Cal Poly Pomona University | [Tutorials](https://www.youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr) | Verilog |
 | | Intel | [Basics](https://learning.intel.com/Developer/learn/course/external/view/classroom/862/verilog-hdl-basics), [Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) | Verilog
-
-| | ARCRAFT | Tutorials
+| | ARCRAFT | [Tutorials](https://www.youtube.com/playlist?list=PL3wGfPnyEQlHD09fR30jL3SQndmtXnCt5) | |

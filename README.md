@@ -26,17 +26,18 @@ Explore the vast collection of mini learning projects I have undertaken during m
 
 | Project Name  | Description                                      | Relevant Subjects     |
 | ------------- | ------------------------------------------------ | --------------------- |
-| ALU     | Brief description of the project and its relevance | Digital Design        |
+| ALU     | | Digital Design        |
 
 ### Analog Design Projects
 
 | Project Name  | Description                                      | Relevant Subjects     |
 | ------------- | ------------------------------------------------ | --------------------- |
-
+| | | |
 ### Embedded Systems Projects
 
 | Project Name  | Description                                      | Relevant Subjects     |
 | ------------- | ------------------------------------------------ | --------------------- |
+| | | |
 ### CS Fundamentals Projects
 
 | Project Name  | Description                                      | Relevant Subjects     |

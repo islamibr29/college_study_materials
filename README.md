@@ -26,5 +26,5 @@ You can use either of 2 plans/roadmaps [Eng. Muhammad Aldacher](https://github.c
 | Eng. Basma | Helwan University | [Tutorials](https://www.youtube.com/playlist?list=PLFqnMA2Z6e8Rk1T6M16vmxWnEyfiJYTzQ) | VHDL|
 | | Electron Tube | [Tutorials](https://www.youtube.com/playlist?list=PLyWAP9QBe16p2HXVcyEgGAFicXJI797jK) | VHDL |
 | [Dr. Anas Salah Eddin](https://www.linkedin.com/in/anas-salah-eddin-857b47b/) | Cal Poly Pomona University | [Tutorials](https://www.youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr) | Verilog |
-| | Intel | [Basics](https://learning.intel.com/Developer/learn/course/external/view/classroom/862/verilog-hdl-basics), [Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) | Verilog
+| | Intel | [VHDL Basics](https://learning.intel.com/developer/learn/course/internal/view/elearning/234/vhdl-basics), [Verilog Basics](https://learning.intel.com/Developer/learn/course/external/view/classroom/862/verilog-hdl-basics), [Verilog Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) | |
 | | ARCRAFT | [Tutorials](https://www.youtube.com/playlist?list=PL3wGfPnyEQlHD09fR30jL3SQndmtXnCt5) | Verilog |

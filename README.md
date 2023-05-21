@@ -12,7 +12,7 @@ You can use either of 2 plans/roadmaps [Eng. Muhammad Aldacher](https://github.c
 ### Digital Circuits 
 | Instructor | Affiliation | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- |
-| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PL291W0pS_KD056uCeGqg_g7nVeTVUxYKr), [Course Materials](https://drive.google.com/drive/u/0/folders/1-Pz3hgViJgqfFcm9YJaQJE7s7lbYCvN8) | |
+| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PL291W0pS_KD056uCeGqg_g7nVeTVUxYKr), [Labs](https://www.youtube.com/playlist?list=PL291W0pS_KD2YA8Ty-ENkoFLq1XcupSVv), [Course Materials](https://drive.google.com/drive/u/0/folders/1-Pz3hgViJgqfFcm9YJaQJE7s7lbYCvN8) | |
 | [Dr. Jan Rabaey](https://www.linkedin.com/in/jan-rabaey-9966636/) | UC Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7), [Slides](https://drive.google.com/drive/folders/10hvUT1O2tvxRrzxpA60WKpL2_w9KH395) | |
 
 

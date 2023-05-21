@@ -1,4 +1,6 @@
 # Digital Design
+This is not a study plan/roadmap for digital design track, it's a place where i collect what was useful for me in study period.
+You can use either of 2 plans/roadmaps [Eng. Isa](https://github.com/muhammadaldacher/muhammadaldacher/blob/main/docs/2_Digital_Circuits_Basics.md) or [Eng. Youssef](https://docs.google.com/document/d/10o4X9itOy4x89zeV04_ipY3Gark36JPEXNdBuAvmYeo/edit).
 ## Courses
 ### Digital Logic 
 | Instructor | Affiliation | Material | Notes |

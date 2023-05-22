@@ -48,7 +48,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Software Engineering Lectures | Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
-### Algorithm
+### Algorithms
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS170 | | Berkeley University | [Lectures, Labs, Assignments](https://cs170.org/) | |

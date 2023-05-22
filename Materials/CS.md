@@ -48,3 +48,15 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Software Engineering Lectures | Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
+### Algorithm
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS170 | | Berkeley University | [Lectures, Labs, Assignments](https://cs170.org/) | |
+|  Introduction to Algorithms | | MIT | [Lectures, Labs, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | |
+|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) | |
+
+### Data Structures
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | |
+|  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | |

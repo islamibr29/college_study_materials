@@ -35,3 +35,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS-537: Introduction to Operating Systems | | Wisconsin University | [Lectures, Labs, Assignments](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | |
 | CS-342 Operating Systems | | Bilkent  University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | |
+### Networks
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Computer Networking: a Top-Down Approach | | Umass | [Lectures, Assignments](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm), [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |

@@ -23,3 +23,9 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | |
 | Python for Everyone | | Michigan University | [Lectures, Labs, Assignments](https://www.py4e.com/) | |
+
+### Database
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS121 | | Caltech University | [Lectures, Labs, Assignments](http://users.cms.caltech.edu/~donnie/cs121/) | |
+| Python for Everyone | | Michigan University | [Lectures, Labs, Assignments](https://www.py4e.com/) | |

@@ -39,3 +39,12 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Computer Networking: a Top-Down Approach | | Umass | [Lectures, Assignments](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm), [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |
+### Design Patterns
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | |
+| Design Patterns Video Tutorial | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) | |
+### Software Engineering 
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Software Engineering Lectures | Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |

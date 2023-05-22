@@ -9,7 +9,6 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS Crash Course  | | Crash Course  | [Tutorials](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) |  |
 | CS50's Introduction to Computer Science  | [David J. Malan](https://www.linkedin.com/in/malan/) | Harvard University  | [Lectures, Labs, Assignments](https://cs50.harvard.edu/x) | | 
-
 | Introduction To Computer Science And Programming In Python | | MIT |  [Lectures, Labs, Assignments](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
 ### C/C++ 
 | Name | Instructor | Institute | Material | Notes |

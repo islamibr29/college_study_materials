@@ -1,7 +1,7 @@
 # CS Fundamentals
 
 This is not a study plan/roadmap for digital design track, it's a place where i collect what was useful for me in study period.
-You can use either [ossu](https://github.com/ossu/computer-science) or [ciu](https://github.com/jwasham/coding-interview-university).
+You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-science) or [CIU](https://github.com/jwasham/coding-interview-university).
 ## Courses
 
 ### Intro to CS

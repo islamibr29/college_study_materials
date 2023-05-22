@@ -28,4 +28,5 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS121 | | Caltech University | [Lectures, Labs, Assignments](http://users.cms.caltech.edu/~donnie/cs121/) | |
-| Python for Everyone | | Michigan University | [Lectures, Labs, Assignments](https://www.py4e.com/) | |
+| CS W186 | | Berkeley University | [Lectures, Labs, Assignments](https://cs186berkeley.net/) | |
+| Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) ||

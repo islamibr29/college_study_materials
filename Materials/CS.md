@@ -43,8 +43,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | |
-| Design Patterns in Object Oriented Programming
- | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) | |
+| Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) | |
 ### Software Engineering 
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |

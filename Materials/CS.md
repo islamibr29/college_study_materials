@@ -29,4 +29,4 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS121 | | Caltech University | [Lectures, Labs, Assignments](http://users.cms.caltech.edu/~donnie/cs121/) | |
 | CS W186 | | Berkeley University | [Lectures, Labs, Assignments](https://cs186berkeley.net/) | |
-| Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | Each video include the lecture materials |
+| Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | Description include lecture materials |

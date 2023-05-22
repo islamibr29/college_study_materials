@@ -30,3 +30,8 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | CS121 | | Caltech University | [Lectures, Labs, Assignments](http://users.cms.caltech.edu/~donnie/cs121/) | |
 | CS W186 | | Berkeley University | [Lectures, Labs, Assignments](https://cs186berkeley.net/) | |
 | Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | Description include lecture materials |
+### Operating Systems
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS-537: Introduction to Operating Systems | | Wisconsin University | [Lectures, Labs, Assignments](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | |
+| CS-342 Operating Systems | | Bilkent  University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | |

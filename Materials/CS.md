@@ -53,7 +53,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS170 | | Berkeley University | [Lectures, Labs, Assignments](https://cs170.org/) | |
 |  Introduction to Algorithms | | MIT | [Lectures, Labs, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | |
-|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) | |
+|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | |
 
 ### Data Structures
 | Name | Instructor | Institute | Material | Notes |

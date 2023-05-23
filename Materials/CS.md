@@ -62,4 +62,13 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 |  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | |
 
 ### Computer Architecture
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Introduction to Computer Architecture | | Carnegie Mellon University | [Lectures, Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | |
+| Computer Architecture |  | Princeton University | [Lectures](https://www.coursera.org/learn/comparch)  | Advanced |
+
 ### Discrete Mathematics
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Mathematics for Computer Science | | MIT | [Lectures, Labs, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | |
+| MA112: Discrete Mathematics I | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics)  | |

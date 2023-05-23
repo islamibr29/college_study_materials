@@ -9,7 +9,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS Crash Course  | | Crash Course  | [Tutorials](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) |  |
 | CS50: Introduction to Computer Science  | [David J. Malan](https://www.linkedin.com/in/malan/) | Harvard University  | [Lectures, Labs, Assignments](https://cs50.harvard.edu/x) | | 
-| Introduction To Computer Science In Python | | MIT |  [Lectures, Labs, Assignments](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
+| Introduction To Computer Science In Python | | MIT |  [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
 
 ### C/C++ 
 | Name | Instructor | Institute | Material | Notes |
@@ -23,19 +23,19 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
-| Python for Everyone | | Michigan University | [Lectures, Labs, Assignments](https://www.py4e.com/) | |
+| Python for Everyone | | Michigan University | [Lectures, Assignments](https://www.py4e.com/) [alt](https://www.coursera.org/specializations/python) | |
 
 ### Database
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS121 | | Caltech University | [Lectures, Labs, Assignments](http://users.cms.caltech.edu/~donnie/cs121/) | |
-| CS W186 | | Berkeley University | [Lectures, Labs, Assignments](https://cs186berkeley.net/) | |
+| CS121 | | Caltech University | [Lectures, Lecture Materials](http://users.cms.caltech.edu/~donnie/cs121/) | SQL |
+| CS W186 | | Berkeley University | [Lectures, Lecture Materials, Assignments](https://cs186berkeley.net/) | SQL |
 | Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | Description include lecture materials |
 
 ### Operating Systems
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS-537: Introduction to Operating Systems | | Wisconsin University | [Lectures, Labs, Assignments](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | C |
+| CS-537: Introduction to Operating Systems | | Wisconsin University | [Lectures, Lecture Materials, Assignments](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | C |
 | CS-342: Operating Systems | | Bilkent  University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | Theoretical |
 
 ### Networks

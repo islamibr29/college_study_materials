@@ -30,7 +30,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS121 | | Caltech University | [Lectures, Lecture Materials](http://users.cms.caltech.edu/~donnie/cs121/) | SQL |
 | CS W186 | | Berkeley University | [Lectures, Lecture Materials, Assignments](https://cs186berkeley.net/) | SQL |
-| Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | Description include lecture materials |
+| Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | SQL, Description include lecture materials |
 
 ### Operating Systems
 | Name | Instructor | Institute | Material | Notes |
@@ -78,6 +78,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | CS/ECE 3810: Computer Organization | | Utah University | [Lectures, Labs, Assignments](https://users.cs.utah.edu/~rajeev/cs3810/) | |
 | CS-224: Computer Organization | | Bilkent University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | |
 | CSE212: Computer Organization | | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY), [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ)  | |
+| Computation Structures | | MIT | [Lectures Part 1](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016), [Lectures Part 2](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015), [Lectures Part 3](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)), ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)) | |
 
 
 ### Discrete Mathematics

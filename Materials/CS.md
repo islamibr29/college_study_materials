@@ -67,7 +67,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Introduction to Computer Architecture | | Carnegie Mellon University | [Lectures, Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | |
 | Computer Architecture |  | Princeton University | [Lectures](https://www.coursera.org/learn/comparch)  | Advanced | 
 | CS/ECE 3810 Computer Organization | | Utah University | [Lectures, Labs, Assignments](https://users.cs.utah.edu/~rajeev/cs3810/) | |
-| Computer Organization and Architecture (EECS2021E) (RISC-V Version) | | York University | [Lectures](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW), [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/) | |
+| Computer Organization and Architecture, EECS2021E, RISC-V Version | | York University | [Lectures](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW), [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/) | |
 | CS-224 Computer Organization | | Bilkent University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | |
 | CSE212: Computer Organization | | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY) | |
 

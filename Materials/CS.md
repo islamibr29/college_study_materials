@@ -44,6 +44,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | |
 | Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) | |
+| Software Design and Architecture Specialization | | Alberta University | [Lectures](https://www.coursera.org/specializations/software-design-architecture) | Java |
 ### Software Engineering 
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |

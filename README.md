@@ -3,7 +3,7 @@
 
 ## 🚀 Embark on an Epic Odyssey
 
-Behold the Quantum Nexus, an interdimensional repository that transcends the boundaries of knowledge. [Join me](https://linktr.ee/bitwizofficial) on a cosmic journey through the vast universe of Electronics and Communication Engineering, where galaxies of understanding await to be explored.
+Behold the Quantum Nexus, an interdimensional repository that transcends the boundaries of knowledge. [Join me](https://linktr.ee/bitwizofficial) on a cosmic journey through the vast universe of [Electronics and Communication Engineering](https://medium.com/@islamibr/list/ece-career-path-8aa7501cb869), where galaxies of understanding await to be explored.
 
 ## 📚 The Multiverse of Subjects
 Unleash the power of your curiosity as we traverse the multidimensional tapestry of learning. Prepare to encounter realms beyond imagination:

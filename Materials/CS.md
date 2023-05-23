@@ -54,6 +54,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Software Engineering Lectures | Dr. Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
+| Software Engineering: Introduction | |  British Columbia University |[ Lectures, Assignments](https://www.edx.org/course/software-engineering-introduction) |
 
 ### Algorithms
 | Name | Instructor | Institute | Material | Notes |

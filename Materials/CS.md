@@ -82,6 +82,6 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 ### Tools
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Git and Git Hub | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorial](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | |
+| Git and GitHub | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorial](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | |
 | Missing Semester | | MIT | [Lectures, Labs, Assignments](https://missing.csail.mit.edu/2020/) | Linux Tutorial |
 |  Linux & Terminal Commands | | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) |  |

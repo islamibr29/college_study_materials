@@ -58,15 +58,15 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 ### Algorithms
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS170 | | Berkeley University | [Lectures, Labs, Assignments](https://cs170.org/) | |
-|  Introduction to Algorithms | | MIT | [Lectures, Labs, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | |
-|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | |
+| CS170 | | Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT), [Lecture Materials, Assignments](https://cs170.org/) | Theoretical |
+|  Introduction to Algorithms | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | Python |
+|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | Theoretical  |
 
 ### Data Structures
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | |
-|  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | |
+| CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | Java |
+|  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | C |
 
 ### Computer Architecture
 | Name | Instructor | Institute | Material | Notes |

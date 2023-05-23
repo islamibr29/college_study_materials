@@ -11,6 +11,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Digital Design**](https://github.com/islamibr/College/blob/main/Materials/Digital.md)
 - [**Analog Design**](https://github.com/islamibr/College/blob/main/Materials/Analog.md)
 - [**Embedded Systems**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md)
+- [**Telecom**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md)
 - [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md)
 - [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 

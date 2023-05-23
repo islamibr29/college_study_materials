@@ -23,7 +23,7 @@ You can use either of 2 plans/roadmaps  [OSSU](https://github.com/ossu/computer-
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
-| Python for Everyone | | Michigan University | [Lectures, Assignments](https://www.py4e.com/) [alt](https://www.coursera.org/specializations/python) | |
+| Python for Everyone | | Michigan University | [Lectures, Assignments](https://www.py4e.com/) ([alt](https://www.coursera.org/specializations/python)) | |
 
 ### Database
 | Name | Instructor | Institute | Material | Notes |

@@ -31,6 +31,12 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | Java |
 |  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | C |
 
+### Discrete Mathematics
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Mathematics for Computer Science | | MIT | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))  | Solutions: [2015/2019](https://github.com/spamegg1/Math-for-CS-solutions), [2010](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems), [2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) |
+| MA112: Discrete Mathematics I | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S), [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics)  | |
+
 ### Algorithms
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -63,7 +69,6 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Computer Networking: a Top-Down Approach | | Umass | [Lectures, Assignments](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm), [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |
 
-
 ### Software Engineering 
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -82,13 +87,6 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | CSE212: Computer Organization | | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY), [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ)  | |
 | Computation Structures | | MIT | [Lectures Part 1](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016), [Lectures Part 2](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015), [Lectures Part 3](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)) | |
 | From Nand to Tetris | | |  [Lectures, Lecture Materials, Assignments](https://www.nand2tetris.org/) | |
-
-
-### Discrete Mathematics
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Mathematics for Computer Science | | MIT | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))  | Solutions: [2015/2019](https://github.com/spamegg1/Math-for-CS-solutions), [2010](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems), [2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) |
-| MA112: Discrete Mathematics I | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S), [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics)  | |
 
 ### Tools
 | Name | Instructor | Institute | Material | Notes |

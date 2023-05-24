@@ -46,7 +46,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 ### Design Patterns
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), [Reference](https://legacy.cs.indiana.edu/classes/c212-dgerman/spr2015/griffin/a.pdf) | Theoretical |
+| Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), [Reference](https://legacy.cs.indiana.edu/classes/c212-dgerman/spr2015/griffin/a.pdf) | Java |
 | Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | Java |
 | Software Design and Architecture Specialization | | Alberta University | [Lectures](https://www.coursera.org/specializations/software-design-architecture) | Java |
 

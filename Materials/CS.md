@@ -25,6 +25,25 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
 | Python for Everyone | | Michigan University | [Lectures, Lecture Materials, Assignments](https://www.py4e.com/) | |
 
+### Data Structures
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | Java |
+|  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | C |
+
+### Algorithms
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS170 | | Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT), [Lecture Materials, Assignments](https://cs170.org/) | Python |
+|  Introduction to Algorithms | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | Python |
+|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | Java  |
+
+### Design Patterns
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), [Reference](https://legacy.cs.indiana.edu/classes/c212-dgerman/spr2015/griffin/a.pdf) | Java |
+| Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | Java |
+| Software Design and Architecture Specialization | | Alberta University | [Lectures](https://www.coursera.org/specializations/software-design-architecture) | Java |
 
 ### Database
 | Name | Instructor | Institute | Material | Notes |
@@ -44,31 +63,12 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Computer Networking: a Top-Down Approach | | Umass | [Lectures, Assignments](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm), [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |
 
-### Design Patterns
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), [Reference](https://legacy.cs.indiana.edu/classes/c212-dgerman/spr2015/griffin/a.pdf) | Java |
-| Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | Java |
-| Software Design and Architecture Specialization | | Alberta University | [Lectures](https://www.coursera.org/specializations/software-design-architecture) | Java |
 
 ### Software Engineering 
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Software Engineering Lectures | Dr. Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
 | Software Engineering: Introduction | |  British Columbia University | [Lectures, Assignments](https://www.edx.org/course/software-engineering-introduction) |
-
-### Algorithms
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS170 | | Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT), [Lecture Materials, Assignments](https://cs170.org/) | Python |
-|  Introduction to Algorithms | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | Python |
-|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | Java  |
-
-### Data Structures
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | Java |
-|  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | C |
 
 ### Computer Architecture
 | Name | Instructor | Institute | Material | Notes |

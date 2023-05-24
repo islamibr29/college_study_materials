@@ -17,7 +17,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | C Programming | | Neso Academy | [Tutorials](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Basics |
 | C Programming | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif) | Advanced |
 | Pointers in C | [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Tutorial](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | |
-
+| C++ OOD & OOP | Dr. Mostafa Saad | | [Tutorials](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) ||
 
 ### Python
 | Name | Instructor | Institute | Material | Notes |

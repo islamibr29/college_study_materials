@@ -25,6 +25,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
 | Python for Everyone | | Michigan University | [Lectures, Lecture Materials, Assignments](https://www.py4e.com/) | |
 
+
 ### Database
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -54,7 +55,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Software Engineering Lectures | Dr. Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
-| Software Engineering: Introduction | |  British Columbia University |[ Lectures, Assignments](https://www.edx.org/course/software-engineering-introduction) |
+| Software Engineering: Introduction | |  British Columbia University | [Lectures, Assignments](https://www.edx.org/course/software-engineering-introduction) |
 
 ### Algorithms
 | Name | Instructor | Institute | Material | Notes |

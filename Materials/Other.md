@@ -23,3 +23,4 @@
 ## Mechanics
 ## Electromagnetism
 ## Modern Physics & Quantum Mechanics
+## Circuits Analysis

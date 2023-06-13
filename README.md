@@ -12,10 +12,10 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Analog Design**](https://github.com/islamibr/College/blob/main/Materials/Analog.md)
 - [**Embedded Systems**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md)
 - [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md)
-- [**Full Stack Development**]()
+- [**Full Stack Development `Software`**]()
 - [**AI & Data Science**]()
 - [**Networks & Secuirty `IT`**]()
-- [**Telecommunications**]()
+- [**Telecommunications `Telecom`**]()
 - [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 
 ## 💡 Illuminate the Cosmos

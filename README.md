@@ -16,7 +16,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Full Stack Development**]() `Software`
 - [**Networks & Secuirty**]() `IT` 
 - [**Telecommunications**]() `Telecom` `Mobile Communication`
-- [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
+- [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md) `Math` `Physics`
 
 ## 💡 Illuminate the Cosmos
 

@@ -12,6 +12,7 @@
 ## Pure Math
 ### Linear Algebra
 ### Real & Complex analysis
+### Modern/Abstract Algebra
 
 ## Applied Math
 ### Probability & Statistics

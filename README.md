@@ -8,11 +8,11 @@ Behold the Quantum Nexus, an interdimensional repository that transcends the bou
 ## 📚 The Multiverse of Subjects
 Unleash the power of your curiosity as we traverse the multidimensional tapestry of learning. Prepare to encounter realms beyond imagination:
 
-- [**Digital Design**](https://github.com/islamibr/College/blob/main/Materials/Digital.md)
-- [**Analog Design**](https://github.com/islamibr/College/blob/main/Materials/Analog.md)
-- [**Embedded Systems**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md)
-- [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md)
-- [**AI & Data Science**]()
+- [**Digital Design**](https://github.com/islamibr/College/blob/main/Materials/Digital.md) `Electronics`
+- [**Analog Design**](https://github.com/islamibr/College/blob/main/Materials/Analog.md) `Electronics`
+- [**Embedded Systems**](https://github.com/islamibr/College/blob/main/Materials/Embedded.md) `Electronics`
+- [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md) `General`
+- [**AI & Data Science**]() `Software`
 - [**Full Stack Development**]() `Software`
 - [**Networks & Secuirty**]() `IT`
 - [**Telecommunications**]() `Telecom`

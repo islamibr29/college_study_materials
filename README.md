@@ -14,7 +14,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**CS Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CS.md)
 - [**Full Stack Development**]()
 - [**AI & Data Science**]()
-- [**Networks & Secuirty**]()
+- [**Networks & Secuirty `IT`**]()
 - [**Telecommunications**]()
 - [**Other Dimensions**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 

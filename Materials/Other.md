@@ -52,7 +52,16 @@
 | Linear Algebra | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | |
 
 ### Real & Complex analysis
+| Name | Instructor | Institute | Material | Notes |
+| --- | --- | --- | --- | --- |
+| MIT 18.100A Real Analysis | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | |
+| Introduction to Real Analysis | |  | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | |
+
 ### Modern/Abstract Algebra
+| Name | Instructor | Institute | Material | Notes |
+| --- | --- | --- | --- | --- |
+| Introduction to Abstract Group theory |  | NPTEL | [Lectures, Lecture Materials, Assignments](https://nptel.ac.in/courses/111106113) | |
+| Introduction to Rings and Fields | | NPTEL | [Lectures, Lecture Materials, Assignments](https://nptel.ac.in/courses/111106131) | |
 
 ## Applied Math
 ### Probability & Statistics
@@ -72,10 +81,12 @@
 | Probability | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLC58778F28211FA19) | |
 | Statistics | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | |
 
-
-
 ### Numerical Analysis
-### Optimization
+| Name | Instructor | Institute | Material | Notes |
+| --- | --- | --- | --- | --- |
+| Numerical Methods for Engineers | Prof. Jeffrey Chasnov | Hong Kong University | [Lectures](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab), [Lecture Materials](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf) ([alt](https://www.coursera.org/learn/numerical-methods-engineers)) | |
+
+### Optimization and Operations Research
 
 # Physics
 ## Mechanics

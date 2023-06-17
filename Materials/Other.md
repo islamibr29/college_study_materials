@@ -99,6 +99,7 @@
 | Differential Geometry | Prof. NJ Wildberger |  | [Lectures](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) | |
 | Introduction to Logic | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/logic-introduction) | Mathematical Logic|
 | Game Theory | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/game-theory-1) | |
+| Theory Of Computation | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) | |
 
 # Physics
 ## Mechanics

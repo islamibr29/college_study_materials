@@ -58,6 +58,10 @@
 ### Probability & Statistics
 | Name | Instructor | Institute | Material | Notes |
 | --- | --- | --- | --- | --- |
+| Probability and statistics I | Dr. Mervat Mikhail | Alexandria University | [Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV) | |
+| Probability and statistics II | Dr. Mervat Mikhail | Alexandria University | [Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | |
+| Introduction To Probability And Statistics | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/) | |
+| Introduction To Probability And Statistics | | UCI | [Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2) | |
 | Statistics Crash Course | | Crash Courses | [Tutorials](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) | |
 | Probabilistic Systems Analysis And Applied Probability | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | |
 | Probability Concepts | Prof. Christina Knudson | | University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |
@@ -67,10 +71,8 @@
 | Descriptive Statistics | | Udacity | [Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | |
 | Probability | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLC58778F28211FA19) | |
 | Statistics | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | |
-| Probability and statistics I | Dr. Mervat Mikhail | Alexandria University | [Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV) | |
-| Probability and statistics II | Dr. Mervat Mikhail | Alexandria University | [Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | |
-| Introduction To Probability And Statistics | | UCI | [Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2) | |
-| Introduction To Probability And Statistics | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/) | |
+
+
 
 ### Numerical Analysis
 ### Optimization

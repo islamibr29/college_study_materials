@@ -2,7 +2,7 @@
 
 ## Basic Math
 ### Pre-College Math
-| Name | Author | Note
+| Name | Author | Notes |
 | ------------- | ------------- | ------------- |
 | Challenge and Thrill of Pre-College Mathematics | C. R. Pranesachar and V Krishnamurth | |
 

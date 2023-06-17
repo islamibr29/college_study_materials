@@ -97,8 +97,8 @@
 | Name | Instructor | Institute | Material | Notes |
 | --- | --- | --- | --- | --- |
 | Differential Geometry | Prof. NJ Wildberger |  | [Lectures](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) | |
-| Introduction to Logic | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/logic-introduction#instructors) | Mathematical Logic|
-
+| Introduction to Logic | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/logic-introduction) | Mathematical Logic|
+| Game Theory | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/game-theory-1) | |
 
 # Physics
 ## Mechanics

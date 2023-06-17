@@ -4,7 +4,7 @@
 ### Pre-College Math
 | Name | Author | Notes |
 | ------------- | ------------- | ------------- |
-| Challenge and Thrill of Pre-College Mathematics | C. R. Pranesachar and V Krishnamurth | |
+| [Challenge and Thrill of Pre-College Mathematics](https://drive.google.com/file/d/11Wgpnou2_-VvEX6zjVRTS1DcTxUfeNwe/view?usp=sharing) | C. R. Pranesachar and V Krishnamurth | |
 
 ### Number Theory
 | Name | Instructor | Institute | Material | Notes |

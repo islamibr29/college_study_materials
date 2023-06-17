@@ -55,11 +55,12 @@
 | MA214: Linear Algebra | Dr. Waleed Yousef | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut), [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | |
 | Linear Algebra | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | |
 
-### Real & Complex analysis
+### Real & Complex Analysis
 | Name | Instructor | Institute | Material | Notes |
 | --- | --- | --- | --- | --- |
 | MIT 18.100A Real Analysis | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | |
-| Introduction to Real Analysis | |  | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | |
+| Introduction to Real Analysis | Prof. Bill Kinney |  | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | |
+| Introduction to Complex Analysis | Prof. Bill Kinney |  | [Lectures](https://www.youtube.com/playlist?list=PLmU0FIlJY-MnxAkob30Q5kI0SfPx56Uya) | |
 
 ### Modern/Abstract Algebra
 | Name | Instructor | Institute | Material | Notes |

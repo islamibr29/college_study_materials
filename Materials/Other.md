@@ -71,19 +71,14 @@
 ### Probability & Statistics
 | Name | Instructor | Institute | Material | Notes |
 | --- | --- | --- | --- | --- |
-| Probability and statistics I | Dr. Mervat Mikhail | Alexandria University | [Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV) | |
-| Probability and statistics II | Dr. Mervat Mikhail | Alexandria University | [Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | |
-| Introduction To Probability And Statistics | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2014/) | |
-| Introduction To Probability And Statistics | | UCI | [Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2) | |
 | Statistics Crash Course | | Crash Courses | [Tutorials](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) | |
+| Probability and Statistics | Dr. Mervat Mikhail | Alexandria University | [Probability and Statistics I: Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV), [Probability and Statistics II: Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8 | |
 | Probabilistic Systems Analysis And Applied Probability | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | |
 | Probability Concepts | Prof. Christina Knudson |  University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |
 | Statistics for Applications, Fall 2016 | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | |
 | Statistics 110: Probability | | Harvard University | [Lectures, Lecture Materials, Assignments](https://projects.iq.harvard.edu/stat110/home) | |
-| Inferential Statistics | | Udacity | [Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | |
-| Descriptive Statistics | | Udacity | [Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | |
-| Probability | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLC58778F28211FA19) | |
-| Statistics | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | |
+| Statistics | | Udacity | [Inferential Statistics Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201), [Descriptive Statistics Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | |
+| Probability and Statistics  | | Khan Academy | [Probability Tutorials](https://www.youtube.com/playlist?list=PLC58778F28211FA19), [Statistics Tutorials](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | |
 
 ### Numerical Analysis
 | Name | Instructor | Institute | Material | Notes |

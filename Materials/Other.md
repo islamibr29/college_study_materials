@@ -72,7 +72,7 @@
 | Name | Instructor | Institute | Material | Notes |
 | --- | --- | --- | --- | --- |
 | Statistics Crash Course | | Crash Courses | [Tutorials](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) | |
-| Probability and Statistics | Dr. Mervat Mikhail | Alexandria University | [Probability and Statistics I: Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV), [Probability and Statistics II: Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8 | |
+| Probability and Statistics | Dr. Mervat Mikhail | Alexandria University | [Probability and Statistics I: Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g9NUio7xFDtC9IVIj649GV), [Probability and Statistics II: Lectures](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | |
 | Probabilistic Systems Analysis And Applied Probability | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | |
 | Probability Concepts | Prof. Christina Knudson |  University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |
 | Statistics for Applications, Fall 2016 | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | |

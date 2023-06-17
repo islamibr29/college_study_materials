@@ -28,6 +28,7 @@
 |  MIT 18.03 (Differential Equations) 2006  | | MIT  | [Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) |  |
 |  MIT 18.03 (Differential Equations) 2011  | | MIT  | [Lectures, Lecture Materials, Assignments](https://www.edx.org/xseries/mitx-18.03x-differential-equations) ([alt1](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)) ([alt2](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E)) |  |
 | Engineering Math: Differential Equations and Dynamical Systems  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | |
+| Engineering Math: Partial Differential Equations  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | From Video No. 12  |
 | Fourier Analysis | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) |  |
 | EE261 - The Fourier Transform and its Applications | | Stanford University | [Lectures, Lecture Materials, Assignments](https://see.stanford.edu/course/ee261) ([alt](https://www.youtube.com/playlist?list=PLB24BC7956EE040CD)) | |
 | Differential Equations | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902) | |

@@ -57,6 +57,7 @@
 ## Applied Math
 ### Probability & Statistics
 | Name | Instructor | Institute | Material | Notes |
+| --- | --- | --- | --- | --- |
 | Statistics Crash Course | | Crash Courses | [Tutorials](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) | |
 | Probabilistic Systems Analysis And Applied Probability | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | |
 | Probability Concepts | Prof. Christina Knudson | | University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |

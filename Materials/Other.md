@@ -2,6 +2,10 @@
 
 ## Basic Math
 ### Pre-College Math
+| Name | Author | Institute |
+| ------------- | ------------- | ------------- |
+| Challenge and Thrill of Pre-College Mathematics | C. R. Pranesachar and V Krishnamurth | | 
+
 ### Number Theory
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |

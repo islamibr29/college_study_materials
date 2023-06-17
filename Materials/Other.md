@@ -2,9 +2,9 @@
 
 ## Basic Math
 ### Pre-College Math
-| Name | Author |
-| ------------- | ------------- |
-| Challenge and Thrill of Pre-College Mathematics | C. R. Pranesachar and V Krishnamurth |
+| Name | Author | Note
+| ------------- | ------------- | ------------- |
+| Challenge and Thrill of Pre-College Mathematics | C. R. Pranesachar and V Krishnamurth | |
 
 ### Number Theory
 | Name | Instructor | Institute | Material | Notes |

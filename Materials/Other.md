@@ -86,6 +86,9 @@
 | Numerical Methods for Engineers | Prof. Jeffrey Chasnov | Hong Kong University | [Lectures](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab), [Lecture Materials](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf) ([alt](https://www.coursera.org/learn/numerical-methods-engineers)) | |
 
 ### Optimization and Operations Research
+| Name | Instructor | Institute | Material | Notes |
+| --- | --- | --- | --- | --- |
+| Optimization Methods for Machine Learning and Engineering | Prof. Julius Pfrommer | KIT | [Lectures](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5), [Lecture Materials](https://drive.google.com/drive/folders/1WWVWV4vDBIOkjZc6uFY3nfXvpaOUHcfb?usp=sharing) | |
 
 # Physics
 ## Mechanics

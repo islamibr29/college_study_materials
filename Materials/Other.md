@@ -77,7 +77,8 @@
 | Probability Concepts | Prof. Christina Knudson |  University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |
 | Statistics for Applications, Fall 2016 | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | |
 | Statistics 110: Probability | | Harvard University | [Lectures, Lecture Materials, Assignments](https://projects.iq.harvard.edu/stat110/home) | |
-| Statistics | | Udacity | [Inferential Statistics Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201), [Descriptive Statistics Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | |
+| Introduction to Probability and Statistics | | UCI | [131A: Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J), [131B: Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy) | |
+| Statistics | | Udacity | [Inferential Statistics Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201), [Descriptive Statistics Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | | 
 | Probability and Statistics  | | Khan Academy | [Probability Tutorials](https://www.youtube.com/playlist?list=PLC58778F28211FA19), [Statistics Tutorials](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | |
 
 ### Numerical Analysis

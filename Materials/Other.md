@@ -64,7 +64,7 @@
 | Introduction To Probability And Statistics | | UCI | [Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2) | |
 | Statistics Crash Course | | Crash Courses | [Tutorials](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) | |
 | Probabilistic Systems Analysis And Applied Probability | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | |
-| Probability Concepts | Prof. Christina Knudson | | University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |
+| Probability Concepts | Prof. Christina Knudson |  University of St. Thomas | [Lectures](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | |
 | Statistics for Applications, Fall 2016 | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | |
 | Statistics 110: Probability | | Harvard University | [Lectures, Lecture Materials, Assignments](https://projects.iq.harvard.edu/stat110/home) | |
 | Inferential Statistics | | Udacity | [Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | |

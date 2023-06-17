@@ -37,7 +37,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Essence of Differential Equations | | 3Blue1Brown | [Tutorials](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) | |
 |  MIT 18.03 (Differential Equations) 2006  | | MIT  | [Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) |  |
-|  MIT 18.03 (Differential Equations) 2011  | | MIT  | [Lectures, Lecture Materials, Assignments](https://www.edx.org/xseries/mitx-18.03x-differential-equations) ([alt1](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)) ([alt2](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E)) |  |
+|  MIT 18.03 (Differential Equations) 2011  | | MIT  | [Lectures, Lecture Materials, Assignments](https://www.edx.org/xseries/mitx-18.03x-differential-equations) ([alt1](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)) ([alt2](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E)) | Same as 2006 but edited to be better  |
 | Engineering Math: Differential Equations and Dynamical Systems  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | |
 | Engineering Math: Partial Differential Equations  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | From Video No. 12  |
 | Fourier Analysis | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) |  |

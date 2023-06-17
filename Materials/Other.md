@@ -93,7 +93,12 @@
 | Optimization Methods for Machine Learning and Engineering | Prof. Julius Pfrommer | KIT | [Lectures](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5), [Lecture Materials](https://drive.google.com/drive/folders/1WWVWV4vDBIOkjZc6uFY3nfXvpaOUHcfb?usp=sharing), [Reference](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
 | Optimization | Dr. Waleed Yousef | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3), [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | |
 
-**Note: There are other math branches like mathematical logic, topology, and differential geometry I didn't consider them because they are out of engineering scope**
+## Advanced Math
+| Name | Instructor | Institute | Material | Notes |
+| --- | --- | --- | --- | --- |
+| Differential Geometry | Prof. NJ Wildberger |  | [Lectures](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) | |
+| Introduction to Logic | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/logic-introduction#instructors) | Mathematical Logic|
+
 
 # Physics
 ## Mechanics

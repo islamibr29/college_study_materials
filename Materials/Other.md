@@ -61,6 +61,8 @@
 | MIT 18.100A Real Analysis | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | |
 | Introduction to Real Analysis | Prof. Bill Kinney |  | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | |
 | Introduction to Complex Analysis | Prof. Bill Kinney |  | [Lectures](https://www.youtube.com/playlist?list=PLmU0FIlJY-MnxAkob30Q5kI0SfPx56Uya) | |
+| Engineering Math: Crash Course in Complex Analysis | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) |  |
+
 
 ### Modern/Abstract Algebra
 | Name | Instructor | Institute | Material | Notes |
@@ -81,6 +83,7 @@
 | Introduction to Probability and Statistics | | UCI | [131A: Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J), [131B: Lectures](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy) | |
 | Statistics | | Udacity | [Inferential Statistics Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201), [Descriptive Statistics Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | | 
 | Probability and Statistics  | | Khan Academy | [Probability Tutorials](https://www.youtube.com/playlist?list=PLC58778F28211FA19), [Statistics Tutorials](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | |
+| EE230 - Probability and Random Variables | | METU | [Lectures](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz) | |
 
 ### Numerical Analysis
 | Name | Instructor | Institute | Material | Notes |
@@ -92,14 +95,6 @@
 | --- | --- | --- | --- | --- |
 | Optimization Methods for Machine Learning and Engineering | Prof. Julius Pfrommer | KIT | [Lectures](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5), [Lecture Materials](https://drive.google.com/drive/folders/1WWVWV4vDBIOkjZc6uFY3nfXvpaOUHcfb?usp=sharing), [Reference](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
 | Optimization | Dr. Waleed Yousef | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3), [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | |
-
-## Advanced Math
-| Name | Instructor | Institute | Material | Notes |
-| --- | --- | --- | --- | --- |
-| Differential Geometry | Prof. NJ Wildberger |  | [Lectures](https://www.youtube.com/playlist?list=PLIljB45xT85DWUiFYYGqJVtfnkUFWkKtP) | |
-| Introduction to Logic | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/logic-introduction) | Mathematical Logic|
-| Game Theory | | Stanford University | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/game-theory-1) | |
-| Theory Of Computation | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) | |
 
 # Physics
 ## Mechanics

@@ -57,6 +57,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | CS121 | | Caltech University | [Lectures, Lecture Materials](http://users.cms.caltech.edu/~donnie/cs121/) | SQL |
 | CS W186 | | Berkeley University | [Lectures, Lecture Materials, Assignments](https://cs186berkeley.net/) | SQL |
 | Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | SQL, Description include lecture materials |
+| Databases | | Stanford University | [Lectures: Part1](https://www.edx.org/course/modeling-and-theory), [Lectures: Part2](https://www.edx.org/course/databases-5-sql), [Lectures: Part3](https://www.edx.org/course/semistructured-data) | |
 
 ### Operating Systems
 | Name | Instructor | Institute | Material | Notes |

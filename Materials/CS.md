@@ -11,19 +11,51 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | CS50: Introduction to Computer Science  | [David J. Malan](https://www.linkedin.com/in/malan/) | Harvard University  | [Lectures, Labs, Assignments](https://cs50.harvard.edu/x) | | 
 | Introduction To Computer Science In Python | | MIT |  [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
 
-### C/C++ 
+### C
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | C Programming | | Neso Academy | [Tutorials](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Basics |
-| C Programming | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif) | Advanced |
-| Pointers in C | [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Tutorial](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | |
-| C++ OOD & OOP | Dr. Mostafa Saad | | [Tutorials](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) ||
+| C Programming | | Portfolio Courses | [Tutorials: Part1](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif), [Tutorials: Part2](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90) | Advanced |
+| Pointers in C | [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Tutorial](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | Hot Topic |
+| C Programming Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) | |
+|  C Programming | Youssef Shawky || [Tutorials](https://www.youtube.com/playlist?list=PLVp0hvzMSQHTlz2CNlbhq-E6WYYujm7b8) ||
+
+### C++ 
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| C++ & OOD & OOP | Dr. Mostafa Saad | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3), [Tutorials: OOP & OOD](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) ||
+| C++ & OOP | Adel Nasim | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) ||
+| C++ & OOP | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) ||
+| OOP with C++ | Tarek Alabd || [Tutorials](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) ||
+| Learn C++ | | Udacity | | [Tutorials](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) ||
+| C++ Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | |
+| C++ Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | |
+| Fundamentals Of Programming With C++ | | Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | |
+| C++ Programming | | freeCodeCamp | [Tutorials](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) ||
+
 
 ### Python
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
 | Python for Everyone | | Michigan University | [Lectures, Lecture Materials, Assignments](https://www.py4e.com/) | |
+| Master Python || CodeZilla | [Tutorials](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) ||
+| OOP in Python || CodeZilla | [Tutorials](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) ||
+| Mastering Python || Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) ||
+| Python for Beginners | Abdelrahman Gamal | | [Tutorials](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) ||
+| Python Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX73xlgzMb4jzjBSCGp0Rpto) | |
+| Python Tutorial | Mosh | | [Tutorials](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh) ||
+
+### Java
+| Name | Instructor | Institute | Material | Notes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Java & OOP | Adel Nasim | | [Tutorials: Java](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) ||
+| Java  & OOP | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) ||
+| Java Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) | |
+| Java Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19) | |
+| Java Basics |  | freeCodeCamp | [Tutorials](https://www.youtube.com/watch?v=GoXwIVyNvX0&ab_channel=freeCodeCamp.org) ||
+| OOP in Java | | UC San Diego University | [Tutorials](https://www.coursera.org/learn/object-oriented-java?fbclid=IwAR0AX4obGMcxfhD4Ote2Wf2OH4rwNSgQLiz1UbJVjWt8GdoJeSkX_yZnwg0) ||
+
 
 ### Data Structures
 | Name | Instructor | Institute | Material | Notes |

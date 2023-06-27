@@ -10,6 +10,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | CS Crash Course  | | Crash Course  | [Tutorials](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) |  |
 | CS50: Introduction to Computer Science  | [David J. Malan](https://www.linkedin.com/in/malan/) | Harvard University  | [Lectures, Labs, Assignments](https://cs50.harvard.edu/x) | | 
 | Introduction To Computer Science In Python | | MIT |  [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
+| CS 61A: Structure and Interpretation of Computer Programs | |Berkeley University |[Lectures, Lecture Materials, Assignments](https://inst.eecs.berkeley.edu/~cs61a/fa22/) ||
 
 ### C
 | Name | Instructor | Institute | Material | Notes |
@@ -103,6 +104,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS-537: Introduction to Operating Systems | | Wisconsin University | [Lectures, Lecture Materials, Assignments](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | C |
 | CS-342: Operating Systems | | Bilkent  University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=8) |  |
+| CS 162: Operating Systems and Systems Programming || Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC), [Lecture Materials, Assignments](https://cs162.org/) ||
 
 ### Networks
 | Name | Instructor | Institute | Material | Notes |

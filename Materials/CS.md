@@ -28,7 +28,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | C++ & OOP | Adel Nasim | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) ||
 | C++ & OOP | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) ||
 | OOP with C++ | Tarek Alabd || [Tutorials](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) ||
-| Learn C++ | | Udacity | | [Tutorials](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) ||
+| Learn C++ | | Udacity |  [Tutorials](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) ||
 | C++ Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | |
 | C++ Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | |
 | Programming With C++ | | Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | |

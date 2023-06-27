@@ -72,6 +72,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mathematics for Computer Science | | MIT | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))  | Solutions: [2015/2019](https://github.com/spamegg1/Math-for-CS-solutions), [2010](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems), [2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) |
 | MA112: Discrete Mathematics I | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S), [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics)  | |
+| Math 55: Discrete Mathematics | | Berkeley University |[Lectures](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC) ||
 
 ### Algorithms
 | Name | Instructor | Institute | Material | Notes |

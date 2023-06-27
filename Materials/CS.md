@@ -39,8 +39,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
 | Python for Everyone | | Michigan University | [Lectures, Lecture Materials, Assignments](https://www.py4e.com/) | |
-| Master Python || CodeZilla | [Tutorials](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) ||
-| OOP in Python || CodeZilla | [Tutorials](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) ||
+| Master Python & OOP || CodeZilla | [Tutorials: Python](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) ||
 | Mastering Python || Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) ||
 | Python for Beginners | Abdelrahman Gamal | | [Tutorials](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) ||
 | Python Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX73xlgzMb4jzjBSCGp0Rpto) | |
@@ -62,6 +61,9 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | Java |
 |  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | C |
+| Data Structures | Adel Nasim | | [Tutorials](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) |C|
+| Data Structures: Easy to Advanced |  | freeCodeCamp | [Tutorials](https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org) | Java|
+| Data Structures  | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) |C|
 
 ### Discrete Mathematics
 | Name | Instructor | Institute | Material | Notes |
@@ -107,6 +109,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Software Engineering Lectures | Dr. Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
 | Software Engineering: Introduction | |  British Columbia University | [Lectures, Assignments](https://www.edx.org/course/software-engineering-introduction) |
+| CS251 Software Engineering
 
 ### Computer Architecture
 | Name | Instructor | Institute | Material | Notes |

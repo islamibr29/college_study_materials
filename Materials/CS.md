@@ -30,7 +30,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Learn C++ | | Udacity | | [Tutorials](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) ||
 | C++ Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | |
 | C++ Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | |
-| Fundamentals Of Programming With C++ | | Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | |
+| Programming With C++ | | Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | |
 | C++ Programming | | freeCodeCamp | [Tutorials](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) ||
 
 

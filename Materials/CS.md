@@ -78,9 +78,9 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | CS170 | | Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT), [Lecture Materials, Assignments](https://cs170.org/) | Python |
 |  Introduction to Algorithms | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | Python |
 |  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | Java  |
-|Tpoics in Algorithms | Dr. Mostafa Saad | | [Tutorials: Complexity of Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYOPOhyU_5_bjhpC7J-nNDI), [Tutorials: Greedy Algorithm
+| Tpoics in Algorithms | Dr. Mostafa Saad | | [Tutorials: Complexity of Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYOPOhyU_5_bjhpC7J-nNDI), [Tutorials: Greedy Algorithm
 ](https://www.youtube.com/playlist?list=PLPt2dINI2MIbJYBTHmRuZuGLIP5PnkzMH), [Tutorials: Graph Theory](https://www.youtube.com/playlist?list=PLPt2dINI2MIb4OXlJ_EEwIDV9WVUpRQ5K), [Tutorials: Search Techniques](https://www.youtube.com/playlist?list=PLPt2dINI2MIZcJ3kADyFAOKOwzuvT-g7P), [Tutorials: String Processing Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYrtHBahPW16S-Wz9wx24Nc), [Tutorials: Dynamic Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p), [Tutorials: Mastering Recursion
-](https://www.youtube.com/playlist?list=PLPt2dINI2MIYmHYBSEdkdKMf_3nzFMveo)| C |
+](https://www.youtube.com/playlist?list=PLPt2dINI2MIYmHYBSEdkdKMf_3nzFMveo) | C |
 
 ### Design Patterns
 | Name | Instructor | Institute | Material | Notes |

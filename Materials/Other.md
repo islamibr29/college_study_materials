@@ -19,11 +19,8 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2018 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | | Youtube | | | None | 3 Hours | Free |
+| Prof. David Jerison | 2010 | [18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) (alt: [1A](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) [1B](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)  [1C](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)) |  MIT | | MIT OCW | | | 28 Hours | Free |
 
-| Calculus 1A: Differentiation  | | MIT  | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) |  |
-| Calculus 1B: Integration  | | MIT  | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) |  |
-| Calculus 1C: Coordinate Systems & Infinite Series  | | MIT  | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |  |
-| MIT 18.01 (Single Variable Calculus) | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | This is alternative link to all the three above |
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

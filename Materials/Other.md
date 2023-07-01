@@ -7,9 +7,9 @@
 | C. R. Pranesachar & V. Krishnamurth | 2016 | [Challenge and Thrill of Pre-College Mathematics](https://drive.google.com/file/d/11Wgpnou2_-VvEX6zjVRTS1DcTxUfeNwe/view?usp=sharing) | 2nd Ed. | New Age International Publishers | | | [4th Ed. Amazon](https://www.amazon.com/Challenge-Thrill-Pre-College-Mathematics-Krishnamurthy/dp/9393159149) [3rd Ed. Amazon](https://www.amazon.com/Challenge-Thrill-Pre-College-Mathematics-Krishnamurthy/dp/9386418347/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) |
 
 ### Number Theory
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Introduction to Mathematical Thinking  | | Stanford University  | [Lectures, Lecture Materials, Assignments](https://www.coursera.org/learn/mathematical-thinking) |  |
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Keith Devlin | | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford University |  | Coursera | | | None | 38 Hours | Free |
 
 ## Calculus
 ### Single Variable Calculus (Calculus I&II)

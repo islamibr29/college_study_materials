@@ -24,7 +24,7 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Ahmed Husseini | 2020 | [Michael Spivak: Single Variable Calculus](https://www.youtube.com/@anaHr/playlists?view=50&shelf_id=2) | anaHer | [Reference](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf) | Youtube | |  | | | Essence of Calculus | 33 Hours | Free | 
+| Ahmed Husseini | 2020 | [Michael Spivak: Single Variable Calculus](https://www.youtube.com/@anaHr/playlists?view=50&shelf_id=2) | anaHer | [Reference](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf) | Youtube | | | | Essence of Calculus | 33 Hours | Free | 
 
 
 ### Multivariable Calculus (Calculus III)

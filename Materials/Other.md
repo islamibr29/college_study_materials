@@ -48,7 +48,7 @@
 | Prof. Steve Brunton | 2020 | [Fourier Analysis: Data-Driven Science and Engineering](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) | Washington University | | Youtube | | | Differential Equations | 8 Hours | Free |
 | Prof. Osgood, Brad G | 2007 | [EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261) | Stanford University | | Stanford SEE | | | Differential Equations | 30 Hours | Free |
 |  | 2009 | [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902) | Khan Academy | | Youtube | | | Multivariable Calculus | 8 Hours | Free |
-| Prof. Jeffrey Chasnov | 2019  | [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) | Youtube, Coursera | | | Multivariable Calculus | 11 Hours | Free |
+| Prof. Jeffrey Chasnov | 2019  | [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) ([alt](https://www.coursera.org/learn/differential-equations-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) | Youtube, Coursera | | | Multivariable Calculus | 11 Hours | Free |
 
 
 ## Pure Math

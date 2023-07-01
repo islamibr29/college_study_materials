@@ -19,14 +19,13 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2018 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | | Youtube | | | None | 3 Hours | Free |
-| Prof. David Jerison | 2010 | [18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) ([alt](https://docs.google.com/document/d/16AfkxeLCW38hHePTIP8nN1IJxrLIoq_dTy4DmpZJ0o8/edit?usp=sharing)) | MIT |  | MIT OCW | | | | 28 Hours | Free |
+| Prof. David Jerison | 2010 | [18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) ([alt](https://docs.google.com/document/d/16AfkxeLCW38hHePTIP8nN1IJxrLIoq_dTy4DmpZJ0o8/edit?usp=sharing)) | MIT |  | MIT OCW | | | Essence of Calculus | 28 Hours | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Ahmed Husseini | 2020 | [Michael Spivak: Single Variable Calculus](https://www.youtube.com/@anaHr/playlists?view=50&shelf_id=2) | anaHer | [Reference](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf) | anaHer | | Youtube | | | Essence of Calculus | 33 Hours | Free | 
 
-| Michael Spivak | | anaHer | [Tutorials](https://www.youtube.com/c/anaHr/playlists), [Reference](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Calculus/Michael%20Spivak%20-%20Calculus.pdf) | |
-| Calculus | |  Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PL19E79A0638C8D449) | |
 
 ### Multivariable Calculus (Calculus III)
 | Name | Instructor | Institute | Material | Notes |

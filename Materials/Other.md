@@ -19,7 +19,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2018 | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 3Blue1Brown | | Youtube | | | None | 3 Hours | Free |
-| Prof. David Jerison | 2010 | [18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) | MIT |  | MIT OCW | Alternative Links: [Differentiation: 1A](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about), [Integration: 1B](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about),  [Series: 1C](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about), [Lectures](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) | | | 28 Hours | Free |
+| Prof. David Jerison | 2010 | [18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) ([alt](https://docs.google.com/document/d/16AfkxeLCW38hHePTIP8nN1IJxrLIoq_dTy4DmpZJ0o8/edit?usp=sharing)) | MIT |  | MIT OCW | | | | 28 Hours | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

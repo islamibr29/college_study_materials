@@ -4,7 +4,7 @@
 ### Pre-College Math
 #### Textbooks
 | Author | Date | Title | Edition | Publisher | Note | Content Type | Cost |
-| -------------------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | C. R. Pranesachar & V. Krishnamurth | 2016 | [Challenge and Thrill of Pre-College Mathematics](https://drive.google.com/file/d/11Wgpnou2_-VvEX6zjVRTS1DcTxUfeNwe/view?usp=sharing) | 2nd Ed. | New Age International Publishers | | | [4th Ed. Amazon](https://www.amazon.com/Challenge-Thrill-Pre-College-Mathematics-Krishnamurthy/dp/9393159149) [3rd Ed. Amazon](https://www.amazon.com/Challenge-Thrill-Pre-College-Mathematics-Krishnamurthy/dp/9386418347/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) |
 
 ### Number Theory
@@ -31,24 +31,25 @@
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prof. Denis Auroux | 2010 | [MIT 18.02SC: Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | Youtube, MIT OCW | | | Single Variable Calculus  | 28 Hours | Free |
+| Prof. Denis Auroux | 2010 | [18.02SC: Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | Youtube, MIT OCW | | | Single Variable Calculus  | 28 Hours | Free |
 | Prof. Steve Brunton | 2022 | [Engineering Math: Vector Calculus](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Washington University | | Youtube | Until Video No. 11 | | Single Variable Calculus | 4 Hours | Free |
 | Prof. Jeffrey Chasnov | 2019 | [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) ([alt](https://www.coursera.org/learn/vector-calculus-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf)  | Youtube, Coursera | | | Single Variable Calculus | 9 Hours | Free |
 |  | 2016 | [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) | Khan Academy | | Youtube | | | Single Variable Calculus | 24 Hours | Free |
 
 
 ### Differential Equations (Calculus IV)
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Essence of Differential Equations | | 3Blue1Brown | [Tutorials](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) | |
-|  MIT 18.03 (Differential Equations) 2006  | | MIT  | [Lectures](https://www.youtube.com/playlist?list=PLEC88901EBADDD980), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) |  |
-|  MIT 18.03 (Differential Equations) 2011  | | MIT  | [Lectures, Lecture Materials, Assignments](https://www.edx.org/xseries/mitx-18.03x-differential-equations) ([alt1](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)) ([alt2](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E)) | Same as 2006 but edited to be better  |
-| Engineering Math: Differential Equations and Dynamical Systems  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | |
-| Engineering Math: Partial Differential Equations  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | From Video No. 12  |
-| Fourier Analysis | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) |  |
-| EE261 - The Fourier Transform and its Applications | | Stanford University | [Lectures, Lecture Materials, Assignments](https://see.stanford.edu/course/ee261) ([alt](https://www.youtube.com/playlist?list=PLB24BC7956EE040CD)) | |
-| Differential Equations | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902) | |
-| Differential Equations for Engineers | Prof. Jeffrey Chasnov | Hong Kong University | [Lectures](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w), [Lecture Materials](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) ([alt](https://www.coursera.org/learn/differential-equations-engineers)) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | 2019 | [Essence of Differential Equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) | 3Blue1Brown | | Youtube | | | | 2 Hours | Free |
+| Prof. Arthur Mattuck | 2011 | [18.03SC: Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E) ([alt](https://www.edx.org/xseries/mitx-18.03x-differential-equations)) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | Youtube, MIT OCW, edX | | | Multivariable Calculus | 31 Hours | Free |
+| Prof. Steve Brunton | 2022 | [Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | Washington University | | Youtube | | | Multivariable Calculus | 22 Hours | Free |
+| Prof. Steve Brunton | 2022 | [Engineering Math: Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Washington University | | Youtube | From Video No. 12 | | Multivariable Calculus | 6 Hours | Free |
+| Prof. Steve Brunton | 2020 | [Fourier Analysis: Data-Driven Science and Engineering](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) | Washington University | | Youtube | | | Differential Equations | 8 Hours | Free |
+| Prof. Osgood, Brad G | 2007 | [EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261) | Stanford University | | Stanford SEE | | | Differential Equations | 30 Hours | Free |
+|  | 2009 | [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902) | Khan Academy | | Youtube | | | Multivariable Calculus | 8 Hours | Free |
+| Prof. Jeffrey Chasnov | 2019  | [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) | Youtube, Coursera | | | Multivariable Calculus | 11 Hours | Free |
+
 
 ## Pure Math
 ### Linear Algebra

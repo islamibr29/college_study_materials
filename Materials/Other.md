@@ -28,12 +28,13 @@
 
 
 ### Multivariable Calculus (Calculus III)
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-|  MIT 18.02 (Multivariable Calculus)  | | MIT  | [Lectures](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) |  |
-| Engineering Math: Vector Calculus  | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Until Video No. 11  |
-| Vector Calculus for Engineers | Prof. Jeffrey Chasnov | Hong Kong University | [Lectures](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa), [Lecture Materials](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf) ([alt](https://www.coursera.org/learn/vector-calculus-engineers)) | |
-| Multivariable Calculus | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Denis Auroux | 2010 | [MIT 18.02SC: Multivariable Calculus)](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | Youtube, MIT OCW | | | Single Variable Calculus  | 28 Hours | Free |
+| Prof. Steve Brunton | 2022 | [Engineering Math: Vector Calculus](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Washington University | | Youtube | Until Video No. 11 | | Single Variable Calculus | 4 Hours | Free |
+| Prof. Jeffrey Chasnov | 2019 | [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) ([alt](https://www.coursera.org/learn/vector-calculus-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf)  | Youtube, Coursera | | | Single Variable Calculus | 9 Hours | Free |
+|  | 2016 | [Multivariable Calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7) | Khan Academy | | Youtube | | | Single Variable Calculus | 24 Hours | Free |
 
 
 ### Differential Equations (Calculus IV)

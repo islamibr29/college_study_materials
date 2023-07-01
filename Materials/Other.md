@@ -30,7 +30,7 @@
 ### Multivariable Calculus (Calculus III)
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | --------------------------  | ------------- | ------------- | ------------- | ------------- |
 | Prof. Denis Auroux | 2010 | [18.02SC: Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) | Youtube, MIT OCW | | | Single Variable Calculus  | 28 Hours | Free |
 | Prof. Steve Brunton | 2022 | [Engineering Math: Vector Calculus](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Washington University | | Youtube | Until Video No. 11 | | Single Variable Calculus | 4 Hours | Free |
 | Prof. Jeffrey Chasnov | 2019 | [Vector Calculus for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa) ([alt](https://www.coursera.org/learn/vector-calculus-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf)  | Youtube, Coursera | | | Single Variable Calculus | 9 Hours | Free |

@@ -1,8 +1,8 @@
 # Career Path Decision Helper
 
 ## Career Paths Overview
-
-| Career Path | Description | Required Skills | Industries|-------------|-------------|-----------------|------------|
+| Career Path | Description | Required Skills | Industries|
+|-------------|-------------|-----------------|------------|
 | Path 1      | Description | Skill 1, Skill 2| Industry 1, Industry 2 |
 | Path 2      | Description | Skill 1, Skill 2| Industry 1, Industry 2 |
 | ...         | ...         | ...             | ...        |

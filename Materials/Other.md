@@ -93,17 +93,17 @@
 | | 2018 | [Statistics Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr) | Crash Courses | | Youtube | | | | 9 Hours | Free 
 | Prof. Christina Knudson | 2018 | [Probability Concepts](https://www.youtube.com/@ProfessorKnudson/playlists?view=50&shelf_id=4) | | | Youtube | | | | 7 Hours | Free |
 | Prof. Philippe Rigollet | 2016 | [18.650: Statistics For Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) | Youtube | | | | 28 Hours | Free |
-| Prof. Joseph Blitzstein | 2013 | [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) | Harvard University | | | | 16 Hours | Free |
+| Prof. Joseph Blitzstein | 2013 | [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home) | Harvard University | | | | | | 16 Hours | Free |
 | Prof. John Tsitsiklis | 2013 | [6.041SC: Probabilistic Systems Analysis And Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | Youtube | | | | 31 Hours | Free |
 | | | [Inferential Statistics Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201), [Descriptive Statistics Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Udacity | | Udacity | | | |  | Free |
 | Prof. Elif Uysal-Bıyıkoğlu | 2013 | [EE230: Probability and Random Variables](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz) | METU | | Youtube | | | | 28 Hours | Free |
-| Prof. Michael C. Cranston | 2013 | [131A:  Introduction to Probability and Statistic](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J), [131B:  Introduction to Probability and Statistic](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq) | UCI | | Youtube | | | | 25 Hours + 24 Hours = 49 Hours | Free |
-| | 2011, 2009 | [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) and [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | Khan Academy | | Youtube | | | | 7 Hours + 13 Hours = 20 Hours | Free |
+| Prof. Michael C. Cranston | 2013 | [131A:  Introduction to Probability and Statistic](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J), [131B:  Introduction to Probability and Statistic](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq) | UCI | | Youtube | | | | 25 + 24 = 49 Hours | Free |
+| | 2011, 2009 | [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19) and [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | Khan Academy | | Youtube | | | | 7  + 13 Hours = 20  | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. Mervat Mikhail | 2021, 2020 | [Probability and statistics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut), [Probability and statistics II](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | Alexandria University | | Youtube |  | | | 14 Hours + 19 Hours = 33 Hours | Free |
+| Dr. Mervat Mikhail | 2021, 2020 | [Probability and statistics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut), [Probability and statistics II](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | Alexandria University | | Youtube |  | | | 14 + 19 = 33 Hours | Free |
 
 
 ### Numerical Analysis

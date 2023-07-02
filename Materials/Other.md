@@ -53,28 +53,36 @@
 
 ## Pure Math
 ### Linear Algebra
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Essence of Linear Algebra | | 3Blue1Brown | [Tutorials](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | |
-| MIT 18.06 (Linear Algebra) 2011 | Prof. Gilbert Strang | MIT | [Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | |
-| Matrix Algebra for Engineers | Prof. Jeffrey Chasnov | Hong Kong University | [Lectures](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx), [Lecture Materials](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf) ([alt](https://www.coursera.org/learn/matrix-algebra-engineers)) | |
-| MA214: Linear Algebra | Dr. Waleed Yousef | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut), [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | |
-| Linear Algebra | | Khan Academy | [Tutorials](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | 2016 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | | Youtube | | | | 3 Hours | Free |
+| Prof. Gilbert Strang | 2011 | [MIT 18.06SC: Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Youtube, MIT OCW | | | | 36 Hours | Free |
+| Prof. Jeffrey Chasnov | 2018 | [Matrix Algebra for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx) ([alt](https://www.coursera.org/learn/matrix-algebra-engineers)) | Hong Kong University |[Lecture Materials](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf)  | Youtube, Coursera | | | | 7 Hours | Free |
+| | 2009 | [Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy |  | Youtube | | | | 46 Hours | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Waleed Yousef | 2016 | [MA214: Linear Algebra](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | Youtube, GitHub | Still Recording | | | 14 Hours | Free |
+
 
 ### Real & Complex Analysis
-| Name | Instructor | Institute | Material | Notes |
-| --- | --- | --- | --- | --- |
-| MIT 18.100A Real Analysis | | MIT | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw), [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | |
-| Introduction to Real Analysis | Prof. Bill Kinney |  | [Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | |
-| Introduction to Complex Analysis | Prof. Bill Kinney |  | [Lectures](https://www.youtube.com/playlist?list=PLmU0FIlJY-MnxAkob30Q5kI0SfPx56Uya) | |
-| Engineering Math: Crash Course in Complex Analysis | Prof. Steve Brunton | Washington University | [Lectures](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) |  |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Casey Rodriguez | 2020 | [MIT 18.100A: Real Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | Youtube, MIT OCW | | | | 30 Hours | Free |
+| Prof. Bill Kinney | 2016 | [Introduction to Real Analysis](https://www.youtube.com/playlist?list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu) | | | Youtube | | | | 34 Hours | Free |
+| Prof. Bill Kinney | 2017 | [Introduction to Complex Analysis](https://www.youtube.com/playlist?list=PLmU0FIlJY-MnxAkob30Q5kI0SfPx56Uya) | |  | Youtube | | | | 33 Hours | Free |
+| Prof. Steve Brunton | 2023 | [Engineering Math: Crash Course in Complex Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Washington University | | Youtube | | | | 6 Hours | Free |
 
 
 ### Modern/Abstract Algebra
-| Name | Instructor | Institute | Material | Notes |
-| --- | --- | --- | --- | --- |
-| Introduction to Abstract Group theory |  | NPTEL | [Lectures, Lecture Materials, Assignments](https://nptel.ac.in/courses/111106113) | |
-| Introduction to Rings and Fields | | NPTEL | [Lectures, Lecture Materials, Assignments](https://nptel.ac.in/courses/111106131) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Krishna Hanumanthu | 2019 | [Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) ([alt](https://www.youtube.com/playlist?list=PLyqSpQzTE6M99lRJsSpAyKg49IjPO-vD6)) | NPTEL | | Youtube, NPTEL | | | | 34 Hours | Free |
+| Prof. Krishna Hanumanthu | 2019 | [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | NPTEL | | Youtube, NPTEL | | | | 24 Hours | Free |
 
 ## Applied Math
 ### Probability & Statistics

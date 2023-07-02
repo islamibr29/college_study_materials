@@ -103,7 +103,7 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. Mervat Mikhail | 2021, 2020 | [Probability and statistics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut)  &  [Probability and statistics II](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | Alexandria University | | Youtube |  | | | 14 + 19 = 33 Hours | Free |
+| Dr. Mervat Mikhail | 2021, 2020 | [Probability and statistics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut)  , [Probability and statistics II](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | Alexandria University | | Youtube |  | | | 14 + 19 = 33 Hours | Free |
 
 
 ### Numerical Analysis

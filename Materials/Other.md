@@ -64,7 +64,7 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. Waleed Yousef | 2016 | [MA214: Linear Algebra](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | Youtube, GitHub | Still Recording | | | 14 Hours | Free |
+| Dr. Waleed Yousef | 2016 | [MA214: Linear Algebra](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | Youtube | Still Recording | | | 14 Hours | Free |
 
 
 ### Real & Complex Analysis
@@ -100,15 +100,22 @@
 | EE230 - Probability and Random Variables | | METU | [Lectures](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz) | |
 
 ### Numerical Analysis
-| Name | Instructor | Institute | Material | Notes |
-| --- | --- | --- | --- | --- |
-| Numerical Methods for Engineers | Prof. Jeffrey Chasnov | Hong Kong University | [Lectures](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab), [Lecture Materials](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf) ([alt](https://www.coursera.org/learn/numerical-methods-engineers)) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Jeffrey Chasnov | 2021 | [Numerical Methods for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab) ([alt](https://www.coursera.org/learn/numerical-methods-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf)  | Youtube, Coursera | | | | 12 Hours | Free |
 
 ### Optimization & Operations Research
-| Name | Instructor | Institute | Material | Notes |
-| --- | --- | --- | --- | --- |
-| Optimization Methods for Machine Learning and Engineering | Prof. Julius Pfrommer | KIT | [Lectures](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5), [Lecture Materials](https://drive.google.com/drive/folders/1WWVWV4vDBIOkjZc6uFY3nfXvpaOUHcfb?usp=sharing), [Reference](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | |
-| Optimization | Dr. Waleed Yousef | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3), [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Julius Pfrommer | 2020 | [Optimization Methods for Machine Learning and Engineering](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5) | KIT | [Lecture Materials](https://drive.google.com/drive/folders/1WWVWV4vDBIOkjZc6uFY3nfXvpaOUHcfb?usp=sharing), [Reference](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | Youtube | | | | 17 Hours | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Waleed Yousef | 2019 | [Optimization](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | Youtube | Still Recording | | | 7 Hours | Free |
+
 
 # Physics
 ## Mechanics

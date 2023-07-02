@@ -82,7 +82,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Krishna Hanumanthu | 2019 | [Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) ([alt](https://www.youtube.com/playlist?list=PLyqSpQzTE6M99lRJsSpAyKg49IjPO-vD6)) | NPTEL | | Youtube, NPTEL | | | | 34 Hours | Free |
-| Prof. Krishna Hanumanthu | 2019 | [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | NPTEL | | Youtube, NPTEL | | | | 24 Hours | Free |
+| Prof. Krishna Hanumanthu | 2019 | [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) ([alt](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8aLVVwxkJ44abrFFzdioId)) | NPTEL | | Youtube, NPTEL | | | | 24 Hours | Free |
 
 ## Applied Math
 ### Probability & Statistics

@@ -98,7 +98,7 @@
 | | | [Inferential Statistics Tutorials](https://www.udacity.com/course/intro-to-inferential-statistics--ud201), [Descriptive Statistics Tutorials](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Udacity | | Udacity | | | |  | Free |
 | Prof. Elif Uysal-Bıyıkoğlu | 2013 | [EE230: Probability and Random Variables](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ8ra5kjxx770vk_famaeuvz) | METU | | Youtube | | | | 28 Hours | Free |
 | Prof. Michael C. Cranston | 2013 | [131A:  Introduction to Probability and Statistic](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J), [131B:  Introduction to Probability and Statistic](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq) | UCI | | Youtube | | | | 25 + 24 = 49 Hours | Free |
-| | 2011, 2009 | [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19)   [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | Khan Academy | | Youtube | | | | 7  + 13 = 20 Hours  | Free |
+| | 2011, 2009 | [Probability](https://www.youtube.com/playlist?list=PLC58778F28211FA19),   [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) | Khan Academy | | Youtube | | | | 7  + 13 = 20 Hours  | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

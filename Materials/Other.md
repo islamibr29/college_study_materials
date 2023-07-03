@@ -49,6 +49,14 @@
 | Prof. Osgood, Brad G | 2007 | [EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261) | Stanford University | | Stanford SEE | | | Differential Equations | 30 Hours | Free |
 |  | 2009 | [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902) | Khan Academy | | Youtube | | | Multivariable Calculus | 8 Hours | Free |
 | Prof. Jeffrey Chasnov | 2019  | [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) ([alt](https://www.coursera.org/learn/differential-equations-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) | Youtube, Coursera | | | Multivariable Calculus | 11 Hours | Free |
+| Prof. Gilbert Strang | 2015 | [RES.18-009: Learn Differential Equations](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/) | Youtube, MIT OCW | | | Multivariable Calculus | 16 Hours | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Ahmed Abdel Samea | 2020 | [Ordinary Differential Equations](https://www.youtube.com/playlist?list=PL-XWNe_oYcGOkjUerkx2IQVrnvEkh9me4) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1WFGmmo-5YHWgJ9Ao_NMccBe86klF5T8o?usp=sharing) | Youtube | | | Single Variable Calculus | 30 Hours | Free |
+| Dr. Ahmed Abdel Samea | 2020 | [Partial Differential Equations and Complex Analysis](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNTdsQ57exHIfw9cz5A8XAl) | Zewail City | [Lecture Materials](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNTdsQ57exHIfw9cz5A8XAl) | Youtube | until video no. 16 | | ODEs | 20 Hours | Free |
+
 
 
 ## Pure Math
@@ -57,7 +65,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2016 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown | | Youtube | | | | 3 Hours | Free |
-| Prof. Gilbert Strang | 2011 | [MIT 18.06SC: Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Youtube, MIT OCW | | | | 36 Hours | Free |
+| Prof. Gilbert Strang | 2011 | [MIT 18.06SC: Linear Algebra](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) ([alt](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/about)) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Youtube, MIT OCW | | | | 36 Hours | Free |
 | Prof. Jeffrey Chasnov | 2018 | [Matrix Algebra for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2Jcxlg-Z1roB0pUwFU-P58tvOx) ([alt](https://www.coursera.org/learn/matrix-algebra-engineers)) | Hong Kong University |[Lecture Materials](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf)  | Youtube, Coursera | | | | 7 Hours | Free |
 | | 2009 | [Linear Algebra](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) | Khan Academy |  | Youtube | | | | 46 Hours | Free |
 
@@ -65,7 +73,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Waleed Yousef | 2016 | [MA214: Linear Algebra](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | Youtube | Still Recording | | | 14 Hours | Free |
-
+| Dr. Hatem Fayed | 2019 | [Linear Algebra and Vector Geometry](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP-ZoRaODBHsRCQltIHKq6A) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1EdIUsa7aM1-7juQaEk3-RdT8YgllP-df?usp=sharing) | Youtube | | Single Variable Calculus | 21 Hours | Free |
 
 ### Real & Complex Analysis
 #### English Courses
@@ -75,6 +83,11 @@
 | Prof. Bill Kinney | 2016 | [Introduction to Real Analysis](https://www.youtube.com/playlist?list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu) | | | Youtube | | | | 34 Hours | Free |
 | Prof. Bill Kinney | 2017 | [Introduction to Complex Analysis](https://www.youtube.com/playlist?list=PLmU0FIlJY-MnxAkob30Q5kI0SfPx56Uya) | |  | Youtube | | | | 33 Hours | Free |
 | Prof. Steve Brunton | 2023 | [Engineering Math: Crash Course in Complex Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Washington University | | Youtube | | | | 6 Hours | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Ahmed Abdel Samea | 2020 | [Partial Differential Equations and Complex Analysis](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNTdsQ57exHIfw9cz5A8XAl) | Zewail City | [Lecture Materials](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNTdsQ57exHIfw9cz5A8XAl) | Youtube | from video no. 17 | | | 13 Hours | Free |
 
 
 ### Modern/Abstract Algebra
@@ -86,7 +99,6 @@
 
 ## Applied Math
 ### Probability & Statistics
-### Linear Algebra
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -122,10 +134,81 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Waleed Yousef | 2019 | [Optimization](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | Youtube | Still Recording | | | 7 Hours | Free |
-
+| Dr. Ahmed Abdel Samea | 2020 | [Linear & Nonlinear Programming](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNgFlHdOarAnYZvkusmDSq_) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/19FBR0BhZZY2OC8mRsyVBb8xSlPwaVfEl?usp=sharing) | Youtube |  | Calculus I&II Linear Algebra | 32 Hours | Free |
 
 # Physics
-## Mechanics
+### Classical Mechanics
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Walter Lewin | 1999 | [8.01x - MIT Physics I: Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro23dQcOQ0gzRxwJCQnVEbC_T) | Youtube | Each lecture have homework in description | | | 32 Hours | Free |
+| Prof. Ramamurti Shankar | 2008 | [Fundamentals of Physics: Mechanics, and Thermodynamics](https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B) | Yale University | | Youtube | | | | 29 Hours | Free |
+| Prof. Leonard Susskind | 2011 | [Classical Mechanics](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) | Stanford University | | Youtube | | | | 17 Hours | Free |
+| Prof. Caleb Bonyun | 2016 | [8.01SC: Classical Mechanics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | | Youtube, MIT OCW | | | | 18 Hours | Free |
+| Prof. Matt Anderson | 2021 | [Physics Module 1-10](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=1), [Physics Module 11-15](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=2) |  | | Youtube | | | | 26 Hours | Free |
+
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Ahmed Husseini | 2020 | [Michael Spivak: Single Variable Calculus](https://www.youtube.com/playlist?list=PL8pYI62gCNsXyl6qNmOBlYdVQy6RLNItO) | anaHer | | Youtube | Still recording | | Essence of Calculus | 33 Hours | Free | 
+
 ## Electromagnetism
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Walter Lewin | 2002 | [8.02x - MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro20wGb1lQtYBKvCg4evxaPQ5 | Youtube | Each lecture have homework in description | | | 32 Hours | Free |
+| Prof. Ramamurti Shankar | 2008 | [Fundamentals of Physics II: Quantum Mechanics, and Electromagnetism](https://www.youtube.com/playlist?list=PLD07B2225BB40E582) | Yale University | | Youtube | | | | 30 Hours | Free |
+| Prof. Peter Dourmashkin | 2016 | 8.02SC: Electricity and Magnetism ([part1](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about), [part2](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about), [part3](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about)) | MIT | | | Youtube, MIT OCW | | | | 26 Hours | Free |
+| Prof. Matt Anderson | 2021 | [Physics Module 16-20](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=2), [Physics Module 21-29](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=3) |  | | Youtube | | | | 21 Hours | Free |
+
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Amr Mohamed | 2020 | [Introduction to Electromagnetism](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMg3b2x4xpv_AptvvY-Z86g) | Zewail City | | Youtube |  | | 10 Hours | Free |
+| Dr. Tamer AbuElfadl | 2020 | [Electrodynamics I](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP7KQBJO2zVo9Aohd4BqULu) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1iJdiITr88SP7oLIAiTDrHOLPgwlGnp4N?usp=sharing) | Youtube |  | | 24 Hours | Free |
+
+
 ## Modern Physics & Quantum Mechanics
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Leonard Susskind | 2008 | [Modern Physics: Quantum Mechanics](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841) | Stanford University | | Youtube | | | | 18 Hours | Free |
+| Prof. Leonard Susskind | 2008 | [Modern Physics: Special Relativity](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772) | Stanford University | | Youtube | | | | 14 Hours | Free |
+| Prof. Barton Zwiebach | 2016 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | Youtube, MIT OCW |  | | | 28 Hours | Free |
+| Prof. Allan Adams | 2013 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) | Youtube, MIT OCW |  | | | 32 Hours | Free |
+| Prof. David Miller | | Quantum Mechanics for Scientists and Engineers ([Part1](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-1?index=product&queryID=caea9acc1b89d3178c6736d555091e03&position=1&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-84f89d1e-6533-4d22-a601-2a3e3a9fe3eb&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+1&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Part2](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-2?index=product&queryID=f6d3ea135f316dd3478bb2f6213d482c&position=2&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-81a74e3c-73e8-47bd-8f40-2127f7da7c70&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+2&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)) | Stanford | | edX | | | | | Free |
+
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Micheal | 2017 | [PHM121s: Modern Physics and Quantum Mechanics](https://www.youtube.com/playlist?list=PLffO0PKa_AqHVhar_Tvhx5Wsyhd0p88IH) | Ain Shams University | | Youtube | | | | 13 Hours | Free |
+| Dr. Tarek Ibrahim | 2016 | [Modern Physics](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPmJEbTx8UDLZkwT1LKC-pq) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | 17 Hours | Free |
+
 ## Circuits Analysis
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Ali Hajimiri | 2016 | [EE44: Circuits and Systems](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z) | Caltech | | Youtube | | | | 32 Hours | Free |
+| | 2020 | [Circuits](https://www.youtube.com/playlist?list=PLOAuB8dR35ocf9Typ1iX9NRmX0V04UYfQ) | Engineer4Free | | Youtube | | | | 5 Hours | Free | 
+| Michel van Biezen | 2019 | [3-Phase Circuits](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUkVZ2eafafDwcs5nDldeBD) | | | Youtube | | | | 5 Hours | Free | 
+
+# Engineering Mechanics
+This section is not necessary and I put them just to help prep year students.
+
+### Statics
+#### English Course
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Jeff Hanson | 2020 | [Online Statics Course](https://www.youtube.com/playlist?list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC) | | | Youtube | | | | 23 Hours | Free |
+| Prof. Lambros Katafygiotis | | [Mastering Statics](https://www.coursera.org/learn/mastering-statics) | Hong Kong University | | Coursera | | | | 21 Hours | Free |
+| | 2020 | [Statics A-Z](https://www.youtube.com/playlist?list=PLXePpKFSUW2ZxGn6VdAPY9d7l7HowWVYL) | Question Solutions | | Youtube | | | | 3 Hours | Free |
+
+### Dynamics
+#### English Course
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | 2020 | [Dynamics A-Z](https://www.youtube.com/playlist?list=PLXePpKFSUW2ZXw_D5h0TTyac-KGlFRxnS) | Question Solutions | | Youtube | | | Statics | 4 Hours | Free |
+| Paul Ziade | 2020 | [Rigid-Body Dynamics](https://www.youtube.com/playlist?list=PLFc_srpNhmDyHQnuAd6Prh9DYyCwbwqve) | | | Youtube | | | Dynamics of Particles | 5 Hours | Free |

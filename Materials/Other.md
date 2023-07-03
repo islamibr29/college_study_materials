@@ -73,7 +73,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Waleed Yousef | 2016 | [MA214: Linear Algebra](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/LinearAlgebra) | Youtube | Still Recording | | | 14 Hours | Free |
-| Dr. Hatem Fayed | 2019 | [Linear Algebra and Vector Geometry](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP-ZoRaODBHsRCQltIHKq6A) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1EdIUsa7aM1-7juQaEk3-RdT8YgllP-df?usp=sharing) | Youtube | | Single Variable Calculus | 21 Hours | Free |
+| Dr. Hatem Fayed | 2019 | [Linear Algebra and Vector Geometry](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP-ZoRaODBHsRCQltIHKq6A) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1EdIUsa7aM1-7juQaEk3-RdT8YgllP-df?usp=sharing) | Youtube | | | Single Variable Calculus |  21 Hours | Free |
 
 ### Real & Complex Analysis
 #### English Courses
@@ -134,7 +134,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Waleed Yousef | 2019 | [Optimization](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | Youtube | Still Recording | | | 7 Hours | Free |
-| Dr. Ahmed Abdel Samea | 2020 | [Linear & Nonlinear Programming](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNgFlHdOarAnYZvkusmDSq_) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/19FBR0BhZZY2OC8mRsyVBb8xSlPwaVfEl?usp=sharing) | Youtube |  | Calculus I&II Linear Algebra | 32 Hours | Free |
+| Dr. Ahmed Abdel Samea | 2020 | [Linear & Nonlinear Programming](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNgFlHdOarAnYZvkusmDSq_) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/19FBR0BhZZY2OC8mRsyVBb8xSlPwaVfEl?usp=sharing) | Youtube |  | | Calculus I&II Linear Algebra | 32 Hours | Free |
 
 # Physics
 ### Classical Mechanics
@@ -151,7 +151,7 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Ahmed Husseini | 2020 | [Michael Spivak: Single Variable Calculus](https://www.youtube.com/playlist?list=PL8pYI62gCNsXyl6qNmOBlYdVQy6RLNItO) | anaHer | | Youtube | Still recording | | Essence of Calculus | 33 Hours | Free | 
+| Ahmed Husseini | 2020 | [Classical Mechanics](https://www.youtube.com/playlist?list=PL8pYI62gCNsXyl6qNmOBlYdVQy6RLNItO) | anaHer | | Youtube | Still recording | | Essence of Calculus | 33 Hours | Free | 
 
 ## Electromagnetism
 #### English Courses
@@ -178,7 +178,7 @@
 | Prof. Leonard Susskind | 2008 | [Modern Physics: Special Relativity](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772) | Stanford University | | Youtube | | | | 14 Hours | Free |
 | Prof. Barton Zwiebach | 2016 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | Youtube, MIT OCW |  | | | 28 Hours | Free |
 | Prof. Allan Adams | 2013 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) | Youtube, MIT OCW |  | | | 32 Hours | Free |
-| Prof. David Miller | | Quantum Mechanics for Scientists and Engineers ([Part1](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-1?index=product&queryID=caea9acc1b89d3178c6736d555091e03&position=1&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-84f89d1e-6533-4d22-a601-2a3e3a9fe3eb&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+1&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Part2](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-2?index=product&queryID=f6d3ea135f316dd3478bb2f6213d482c&position=2&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-81a74e3c-73e8-47bd-8f40-2127f7da7c70&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+2&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)) | Stanford | | edX | | | | | Free |
+| Prof. David Miller | | Quantum Mechanics for Scientists and Engineers ([Part1](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-1?index=product&queryID=caea9acc1b89d3178c6736d555091e03&position=1&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-84f89d1e-6533-4d22-a601-2a3e3a9fe3eb&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+1&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Part2](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-2?index=product&queryID=f6d3ea135f316dd3478bb2f6213d482c&position=2&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-81a74e3c-73e8-47bd-8f40-2127f7da7c70&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+2&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)) | Stanford | | edX | | | | Free |
 
 
 #### Arabic Courses

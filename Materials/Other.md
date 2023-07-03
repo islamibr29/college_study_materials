@@ -144,7 +144,7 @@
 | Prof. Walter Lewin | 1999 | [8.01x - MIT Physics I: Classical Mechanics](https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro23dQcOQ0gzRxwJCQnVEbC_T) | Youtube | Each lecture have homework in description | | | 32 Hours | Free |
 | Prof. Ramamurti Shankar | 2008 | [Fundamentals of Physics: Mechanics, and Thermodynamics](https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B) | Yale University | | Youtube | | | | 29 Hours | Free |
 | Prof. Leonard Susskind | 2011 | [Classical Mechanics](https://www.youtube.com/playlist?list=PL47F408D36D4CF129) | Stanford University | | Youtube | | | | 17 Hours | Free |
-| Prof. Caleb Bonyun | 2016 | [8.01SC: Classical Mechanics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | | Youtube, MIT OCW | | | | 18 Hours | Free |
+| Prof. Caleb Bonyun | 2016 | [8.01SC: Classical Mechanics](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/) | Youtube, MIT OCW | | | | 18 Hours | Free |
 | Prof. Matt Anderson | 2021 | [Physics Module 1-10](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=1), [Physics Module 11-15](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=2) |  | | Youtube | | | | 26 Hours | Free |
 
 
@@ -157,7 +157,7 @@
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prof. Walter Lewin | 2002 | [8.02x - MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro20wGb1lQtYBKvCg4evxaPQ5 | Youtube | Each lecture have homework in description | | | 32 Hours | Free |
+| Prof. Walter Lewin | 2002 | [8.02x - MIT Physics II: Electricity and Magnetism](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro20wGb1lQtYBKvCg4evxaPQ5) | Youtube | Each lecture have homework in description | | | 32 Hours | Free |
 | Prof. Ramamurti Shankar | 2008 | [Fundamentals of Physics II: Quantum Mechanics, and Electromagnetism](https://www.youtube.com/playlist?list=PLD07B2225BB40E582) | Yale University | | Youtube | | | | 30 Hours | Free |
 | Prof. Peter Dourmashkin | 2016 | 8.02SC: Electricity and Magnetism ([part1](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about), [part2](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about), [part3](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about)) | MIT | | | Youtube, MIT OCW | | | | 26 Hours | Free |
 | Prof. Matt Anderson | 2021 | [Physics Module 16-20](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=2), [Physics Module 21-29](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=3) |  | | Youtube | | | | 21 Hours | Free |
@@ -166,8 +166,8 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. Amr Mohamed | 2020 | [Introduction to Electromagnetism](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMg3b2x4xpv_AptvvY-Z86g) | Zewail City | | Youtube |  | | 10 Hours | Free |
-| Dr. Tamer AbuElfadl | 2020 | [Electrodynamics I](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP7KQBJO2zVo9Aohd4BqULu) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1iJdiITr88SP7oLIAiTDrHOLPgwlGnp4N?usp=sharing) | Youtube |  | | 24 Hours | Free |
+| Dr. Amr Mohamed | 2020 | [Introduction to Electromagnetism](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMg3b2x4xpv_AptvvY-Z86g) | Zewail City | | Youtube | | | | 10 Hours | Free |
+| Dr. Tamer AbuElfadl | 2020 | [Electrodynamics I](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP7KQBJO2zVo9Aohd4BqULu) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1iJdiITr88SP7oLIAiTDrHOLPgwlGnp4N?usp=sharing) | Youtube | | | | 24 Hours | Free |
 
 
 ## Modern Physics & Quantum Mechanics
@@ -186,6 +186,15 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Micheal | 2017 | [PHM121s: Modern Physics and Quantum Mechanics](https://www.youtube.com/playlist?list=PLffO0PKa_AqHVhar_Tvhx5Wsyhd0p88IH) | Ain Shams University | | Youtube | | | | 13 Hours | Free |
 | Dr. Tarek Ibrahim | 2016 | [Modern Physics](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPmJEbTx8UDLZkwT1LKC-pq) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | 17 Hours | Free |
+
+## Solid State Physics & Chemistry
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Sergey Frolov | 2015 | [Introduction to Solid State Physics](https://www.youtube.com/playlist?list=PLtTPtV8SRcxi91n9Mni2xcQX4KhjX91xp | University of Pittsburgh | | Youtube | | | | 29 Hours | Free |
+| Prof. Sandro Scandolo | 2012 | [Solid State Physics SISSA](https://www.youtube.com/playlist?list=PLd9hKAUC3AZvJsxR00ZJqBmabGfNScHu0) | ICTP | | Youtube | | | | 28 Hours | Free |
+| Prof. Jeffrey C. Grossman | 2018 | [3.091: Introduction to Solid-State Chemistry](https://www.youtube.com/playlist?list=PLUl4u3cNGP63z5HAguqleEbsICfHgDPaG) | MIT | [Lecture Materials](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/) | Youtube, MIT OCW | | | | 31 Hours | Free |
+| Prof. Steven H. Simon | 2013 | [Solid State Physics](https://www.youtube.com/playlist?list=PLd9hKAUC3AZuo7is-aN45pmfDwJHOqKAj) | Oxford University | | Youtube | | | | 18 Hours | Free |
 
 ## Circuits Analysis
 #### English Courses

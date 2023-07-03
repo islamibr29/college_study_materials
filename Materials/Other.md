@@ -191,7 +191,7 @@
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prof. Sergey Frolov | 2015 | [Introduction to Solid State Physics](https://www.youtube.com/playlist?list=PLtTPtV8SRcxi91n9Mni2xcQX4KhjX91xp | University of Pittsburgh | | Youtube | | | | 29 Hours | Free |
+| Prof. Sergey Frolov | 2015 | [Introduction to Solid State Physics](https://www.youtube.com/playlist?list=PLtTPtV8SRcxi91n9Mni2xcQX4KhjX91xp) | University of Pittsburgh | | Youtube | | | | 29 Hours | Free |
 | Prof. Sandro Scandolo | 2012 | [Solid State Physics SISSA](https://www.youtube.com/playlist?list=PLd9hKAUC3AZvJsxR00ZJqBmabGfNScHu0) | ICTP | | Youtube | | | | 28 Hours | Free |
 | Prof. Jeffrey C. Grossman | 2018 | [3.091: Introduction to Solid-State Chemistry](https://www.youtube.com/playlist?list=PLUl4u3cNGP63z5HAguqleEbsICfHgDPaG) | MIT | [Lecture Materials](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/) | Youtube, MIT OCW | | | | 31 Hours | Free |
 | Prof. Steven H. Simon | 2013 | [Solid State Physics](https://www.youtube.com/playlist?list=PLd9hKAUC3AZuo7is-aN45pmfDwJHOqKAj) | Oxford University | | Youtube | | | | 18 Hours | Free |

@@ -222,18 +222,22 @@ This section is not necessary, and they are special topics of classical mechanic
 | | 2020 | [Dynamics A-Z](https://www.youtube.com/playlist?list=PLXePpKFSUW2ZXw_D5h0TTyac-KGlFRxnS) | Question Solutions | | Youtube | | | Statics | 4 Hours | Free |
 | Paul Ziade | 2020 | [Rigid-Body Dynamics](https://www.youtube.com/playlist?list=PLFc_srpNhmDyHQnuAd6Prh9DYyCwbwqve) | | | Youtube | | | Dynamics of Particles | 5 Hours | Free |
 
-### Str
+### Structural Analysis
+| | 2017 | [Structural Analysis](https://www.youtube.com/playlist?list=PLOAuB8dR35oe8lcGo-ic-f5HdxpXEanvb) | Engineer4Free | | Youtube | | | | 6 Hours | Free |
 
 # Other Subjects
+
+### Information Transmission
 #### English Course
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2018 | [Internet & Telecommunication Technology](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pWzW7KJjbiJ8Ow0cdHlApV) | Lesics | | Youtube | | | | 2 Hours | Free |
+
+### Energy Systems
+#### English Course
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2019 | [Electrical Grid](https://www.youtube.com/playlist?list=PLTZM4MrZKfW-ftqKGSbO-DwDiOGqNmq53) | Practical Engineering | | Youtube | | | | 3 Hours | Free |
-| | 2014 | [Energy Literacy](https://www.youtube.com/playlist?list=PL7b293q4n8alo87lK74wa2iuJRVGmBxvH) | Practical Engineering | | Youtube | | | | 1 Hour | Free |
-| | 2017 | [Renewable Energy 101](https://www.youtube.com/playlist?list=PLFjdi9STI26NseXKKYB7228HojuWPp7TC) | Green Mountain Energy | | Youtube | | | | 6 Mins | Free |
+| | 2014 | [Energy Literacy](https://www.youtube.com/playlist?list=PL7b293q4n8alo87lK74wa2iuJRVGmBxvH) | Student Energy | | Youtube | | | | 1 Hour | Free |
 | | 2017 | [Renewable Energy 101](https://www.youtube.com/playlist?list=PLFjdi9STI26NseXKKYB7228HojuWPp7TC) | Green Mountain Energy | | Youtube | | | | 6 Mins | Free |
 | | | [Power Plants](https://www.youtube.com/playlist?list=PLmcXIwahkst3deVe-FQULblqr0zsoaoyt) | | | Youtube | | | | 1 Hour | Free |
-
-
-

@@ -223,6 +223,7 @@ This section is not necessary, and they are special topics of classical mechanic
 | Paul Ziade | 2020 | [Rigid-Body Dynamics](https://www.youtube.com/playlist?list=PLFc_srpNhmDyHQnuAd6Prh9DYyCwbwqve) | | | Youtube | | | Dynamics of Particles | 5 Hours | Free |
 
 ### Structural Analysis
+#### English Course
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2017 | [Structural Analysis](https://www.youtube.com/playlist?list=PLOAuB8dR35oe8lcGo-ic-f5HdxpXEanvb) | Engineer4Free | | Youtube | | | | 6 Hours | Free |

@@ -152,6 +152,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Ahmed Husseini | 2020 | [Classical Mechanics](https://www.youtube.com/playlist?list=PL8pYI62gCNsXyl6qNmOBlYdVQy6RLNItO) | anaHer | | Youtube | Still recording | | Essence of Calculus | 33 Hours | Free | 
+| Dr. Mohamed Ismail | 2017 | [Physics I](https://www.youtube.com/watch?v=Xrfio444mkg&list=PLD30uL4tqplHqMj3OLEa4IWbnZ-WIASWh&index=2&ab_channel=Dr.MohamedIsmail) | Zagazig University | | Youtube | | | | 16 Hours | Free |
 
 ## Electromagnetism
 #### English Courses
@@ -169,6 +170,19 @@
 | Dr. Amr Mohamed | 2020 | [Introduction to Electromagnetism](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMg3b2x4xpv_AptvvY-Z86g) | Zewail City | | Youtube | | | | 10 Hours | Free |
 | Dr. Tamer AbuElfadl | 2020 | [Electrodynamics I](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP7KQBJO2zVo9Aohd4BqULu) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1iJdiITr88SP7oLIAiTDrHOLPgwlGnp4N?usp=sharing) | Youtube | | | | 24 Hours | Free |
 
+## Waves & Vibrations
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Yen-Jie Lee | 2016 | [8.03SC: Physics III: Vibrations And Waves](https://www.youtube.com/playlist?list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/) | Youtube, MIT OCW | | | | 31 Hours | Free |
+| Prof. Walter Lewin | 2004 | [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro21aOsJf4OYLbtTMvU45k7bS) | Youtube | Each lecture have homework in description | | | 31 Hours | Free |
+| Prof. Frank Porter | 2020 | [Ph2a: Vibrations and Waves](https://www.youtube.com/playlist?list=PL8_xPU5epJddx_jh8YrBg-aCbKim8w0xm) | Caltech | [Lecture Materials, Assignments](http://waves.caltech.edu/) | Youtube | | | | 34 Hours | Free |
+
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Mohamed Ismail | 2017 | [Physics III](https://www.youtube.com/playlist?list=PLD30uL4tqplE-3lvM_eqLmyxF9Hp1S_F2) | Zagazig University | | Youtube | | | | 10 Hours | Free |
 
 ## Modern Physics & Quantum Mechanics
 #### English Courses
@@ -203,6 +217,10 @@
 | Prof. Ali Hajimiri | 2016 | [EE44: Circuits and Systems](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z) | Caltech | | Youtube | | | | 32 Hours | Free |
 | | 2020 | [Circuits](https://www.youtube.com/playlist?list=PLOAuB8dR35ocf9Typ1iX9NRmX0V04UYfQ) | Engineer4Free | | Youtube | | | | 5 Hours | Free | 
 | Michel van Biezen | 2019 | [3-Phase Circuits](https://www.youtube.com/playlist?list=PLX2gX-ftPVXUkVZ2eafafDwcs5nDldeBD) | | | Youtube | | | | 5 Hours | Free | 
+| Dr. Ravel Ammerman | 2013 | [EGGN 281: Introduction to Electric Circuits](https://www.youtube.com/playlist?list=PL8kq5qsK0cc42p-m3eGHiuCi3Xr_ORv9W) | | | Youtube | | | | 31 Hours | Free | 
+| Adam | 2016 | [Circuits 1](https://www.youtube.com/playlist?list=PLvJZZcg6Js7r8xKTR6lOI6eUmXEHDfGTH) | UConn HKN | | Youtube | not completed | | | 8 Hours | Free |
+| Prof. Anant Agarwal | 2007 | [Circuits And Electronics](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) | Youtube | | | | 21 Hours | Free |
+| Prof. Razavi | | [Basic Circuit Theory I](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x) | University of California | | Youtube | | | | 32 Hours | Free |
 
 # Engineering Mechanics
 This section is not necessary, and they are special topics of classical mechanics. I just to help prep year students.
@@ -221,6 +239,7 @@ This section is not necessary, and they are special topics of classical mechanic
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | 2020 | [Dynamics A-Z](https://www.youtube.com/playlist?list=PLXePpKFSUW2ZXw_D5h0TTyac-KGlFRxnS) | Question Solutions | | Youtube | | | Statics | 4 Hours | Free |
 | Paul Ziade | 2020 | [Rigid-Body Dynamics](https://www.youtube.com/playlist?list=PLFc_srpNhmDyHQnuAd6Prh9DYyCwbwqve) | | | Youtube | | | Dynamics of Particles | 5 Hours | Free |
+| Prof. J. Kim Vandiver | 2011 | [2.003SC: Engineering Dynamics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/2-003sc-engineering-dynamics-fall-2011/) | Youtube, MIT OCW | | | | 40 Hours | Free |  
 
 ### Structural Analysis
 #### English Course

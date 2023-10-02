@@ -18,8 +18,8 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Telecommunications**]()
 
 ### CSE Disciplines
-- [**Software Engineering**]()
 - [**Data Science**]()
+- [**Software Engineering**]()
 - [**IT Engineering**]()
 
 ### Mutual Disciplines

@@ -22,7 +22,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Data Science**]()
 - [**IT Engineering**]()
 
-## Mutual Disciplines
+### Mutual Disciplines
 - [**Electronic Systems**]()
 
 ## 💡 Illuminate the Cosmos

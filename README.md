@@ -9,7 +9,7 @@ Behold the Quantum Nexus, an interdimensional repository that transcends the bou
 Unleash the power of your curiosity as we traverse the multidimensional tapestry of learning. Prepare to encounter realms beyond imagination:
 ### Basics
 - [**ECE Fundamentals**]()
-- [**CSE Fundamentals**]()
+- [**CSE Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CSE.md)
 - [**Mathematics**](https://github.com/islamibr/College/blob/main/Math.md)
 
 ### ECE Disciplines

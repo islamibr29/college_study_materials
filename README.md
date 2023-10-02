@@ -10,7 +10,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 ### Basics
 - [**ECE Fundamentals**]()
 - [**CSE Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CSE.md)
-- [**Mathematics**](https://github.com/islamibr/College/blob/main/Math.md)
+- [**Mathematics**](https://github.com/islamibr/College/blob/main/Materials/Math.md)
 
 ### ECE Disciplines
 - [**Microelectronics**]()

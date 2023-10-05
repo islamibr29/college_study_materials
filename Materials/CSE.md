@@ -8,9 +8,9 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | | [ CS Crash Course ](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) | Crash Course  | | Youtube | | | | | Free |
-| CS50: Introduction to Computer Science  | [David J. Malan](https://www.linkedin.com/in/malan/) | Harvard University  | [Lectures, Labs, Assignments](https://cs50.harvard.edu/x) | | 
-| Introduction To Computer Science In Python | | MIT |  [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |
-| CS 61A: Structure and Interpretation of Computer Programs | |Berkeley University |[Lectures, Lecture Materials, Assignments](https://inst.eecs.berkeley.edu/~cs61a/fa22/) ||
+| [David J. Malan](https://www.linkedin.com/in/malan/) |  | [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x) | Harvard University | | | | | | | Free |
+| |  | [Introduction To Computer Science In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | | | | | | | Free |
+|  | |[CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) | Berkeley University | | | | | | | Free |
 
 ### C
 | Name | Instructor | Institute | Material | Notes |

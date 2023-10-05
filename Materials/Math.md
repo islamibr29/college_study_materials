@@ -153,5 +153,5 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | | [MA112: Discrete Mathematics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S)| Helwan University | [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics) | Youtube | | | C | | Free |
+| [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | | [MA112: Discrete Mathematics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S)| Helwan University | [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics) | Youtube | | | | | Free |
 

@@ -61,7 +61,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) |  | [Python Basics](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | Big Data بالعربي | | Youtube | |  | | | Free |
 | | | [Tutorials: Python](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) | CodeZilla | | Youtube | |  | | | Free |
-| Mastering Python || Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) ||
+| Osama Elzero | | [Mastering Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) | Elzero Web School | | Youtube | |  | | | Free 
 | Abdelrahman Gamal || [Python for Beginners](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) | |  | Youtube | |  | | | Free |
 
 
@@ -79,7 +79,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Adel Nasim | | [Tutorials: Java](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) | |  | Youtube | |  | | | Free |
-| Mohamed El-Desouki | | [Tutorials: Java  & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) | | |  | Youtube | |  | | | Free |
+| Mohamed El-Desouki | | [Tutorials: Java  & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) | | | Youtube | |  | | | Free |
 
 
 ### Data Structures

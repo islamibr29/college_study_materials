@@ -5,9 +5,9 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 ## Courses
 
 ### Intro to CS
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-#### English Courses
 | | | [ CS Crash Course ](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) | Crash Course  | | Youtube | | | | | Free |
 | [David J. Malan](https://www.linkedin.com/in/malan/) |  | [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x) | Harvard University | | | | | | | Free |
 | |  | [Introduction To Computer Science In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | | | | | | | Free |

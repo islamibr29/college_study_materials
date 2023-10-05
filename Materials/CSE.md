@@ -93,33 +93,44 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | | [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) | Helwan University | [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | Youtube | | | C | | Free |
 | Adel Nasim | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) | |  | Youtube | |  | C | | Free |
 | Mohamed El-Desouki | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) | |  | Youtube | |  | C | | Free |
-|  | Dr. Mostafa Saad | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM)| |  | Youtube | |  | C | | Free |
+| Dr. Mostafa Saad | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM)| |  | Youtube | |  | C | | Free |
 
 ### Algorithms
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS170 | | Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT), [Lecture Materials, Assignments](https://cs170.org/) | Python |
-|  Introduction to Algorithms | | MIT | [Lectures, Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | Python |
-|  Algorithms | | Standford | [Lectures Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Lectures Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | Java  |
-| Tpoics in Algorithms | Dr. Mostafa Saad | | [Tutorials: Complexity of Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYOPOhyU_5_bjhpC7J-nNDI), [Tutorials: Greedy Algorithm](https://www.youtube.com/playlist?list=PLPt2dINI2MIbJYBTHmRuZuGLIP5PnkzMH), [Tutorials: Graph Theory](https://www.youtube.com/playlist?list=PLPt2dINI2MIb4OXlJ_EEwIDV9WVUpRQ5K), [Tutorials: Search Techniques](https://www.youtube.com/playlist?list=PLPt2dINI2MIZcJ3kADyFAOKOwzuvT-g7P), [Tutorials: String Processing Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYrtHBahPW16S-Wz9wx24Nc), [Tutorials: Dynamic Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p), [Tutorials: Mastering Recursion](https://www.youtube.com/playlist?list=PLPt2dINI2MIYmHYBSEdkdKMf_3nzFMveo) | C |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [CS170](https://www.youtube.com/playlist?list=PLnocShPlK-Ft-o7NInBDw18be86dNaxlT) | Berkeley University | [Lecture Materials, Assignments](https://cs170.org/) | Youtube | | |  Python | | Free |
+| | | [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | MIT | | Youtube | | |  Python | | Free |
+| | | [Algorithms: Part 1](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V), [Algorithms: Part 2](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6) ([alt](https://www.coursera.org/specializations/algorithms)) | Stanford University |  | Coursera | | |  Java | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Mostafa Saad | | [Tutorials: Complexity of Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYOPOhyU_5_bjhpC7J-nNDI), [Tutorials: Greedy Algorithm](https://www.youtube.com/playlist?list=PLPt2dINI2MIbJYBTHmRuZuGLIP5PnkzMH), [Tutorials: Graph Theory](https://www.youtube.com/playlist?list=PLPt2dINI2MIb4OXlJ_EEwIDV9WVUpRQ5K), [Tutorials: Search Techniques](https://www.youtube.com/playlist?list=PLPt2dINI2MIZcJ3kADyFAOKOwzuvT-g7P), [Tutorials: String Processing Algorithms](https://www.youtube.com/playlist?list=PLPt2dINI2MIYrtHBahPW16S-Wz9wx24Nc), [Tutorials: Dynamic Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p), [Tutorials: Mastering Recursion](https://www.youtube.com/playlist?list=PLPt2dINI2MIYmHYBSEdkdKMf_3nzFMveo) |  |  | Youtube | |  | C | | Free |
+
 
 ### Design Patterns
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Design Patterns in Object Oriented Programming | Dr. Christopher Okhravi | | [Lectures](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), [Reference](https://legacy.cs.indiana.edu/classes/c212-dgerman/spr2015/griffin/a.pdf) | Java |
-| Design Patterns Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | Java |
-| Software Design and Architecture Specialization | | Alberta University | [Lectures](https://www.coursera.org/specializations/software-design-architecture) | Java |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Christopher Okhravi | | [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) | | [Reference](https://legacy.cs.indiana.edu/classes/c212-dgerman/spr2015/griffin/a.pdf) |  Youtube | | |  Java | | Free |
+| Derek Banas | | [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07#_=_) | | | Youtube | | |  Java | | Free |
+|  | | [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture) | Alberta University | | Coursera | | |  Java | | Free |
 
 ### Database
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS121 | | Caltech University | [Lectures, Lecture Materials](http://users.cms.caltech.edu/~donnie/cs121/) | SQL |
-| CS W186 | | Berkeley University | [Lectures, Lecture Materials, Assignments](https://cs186berkeley.net/) | SQL |
-| Intro to Database Systems | | CMU Database Group | [Lectures](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | SQL, Description include lecture materials |
-| Databases | | Stanford University | [Lectures: Part1](https://www.edx.org/course/modeling-and-theory), [Lectures: Part2](https://www.edx.org/course/databases-5-sql), [Lectures: Part3](https://www.edx.org/course/semistructured-data) | |
-| Database  | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL37D52B7714788190) |SQL|
-| SQL Tutorial | | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org) ||
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [CS121](http://users.cms.caltech.edu/~donnie/cs121/) | Caltech University | | | | |  | | Free |
+|  | | [CS W186](https://cs186berkeley.net/) | Berkeley University | | | | |  | | Free |
+|  | | [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) | CMU Database Group | [Assignments](https://15445.courses.cs.cmu.edu/fall2019/assignments.html) | Youtube | Description include lecture materials | | | | Free |
+|  | | [Databases: Part1](https://www.edx.org/course/modeling-and-theory), [Databases: Part2](https://www.edx.org/course/databases-5-sql), [Databases: Part3](https://www.edx.org/course/semistructured-data) | Stanford University | | edX | | |  | | Free |
+| |  | [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | | |  | | Free |
 
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Mohamed El-Desouki | | [Database Tutorials](https://www.youtube.com/playlist?list=PL37D52B7714788190) | | | Youtube | | |  | | Free |
 
 ### Operating Systems
 | Name | Instructor | Institute | Material | Notes |

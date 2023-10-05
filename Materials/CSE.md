@@ -33,16 +33,16 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |  |  [Learn C++ Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) | Udacity | | |  | |  | | | Free |
-|  | | [C++ Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | Buckys | | |  | |  | | | Free |
-|  | | [C++ Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | Portfolio Courses | | |  | |  | | | Free |
-|  | | [C++ Programming](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) | freeCodeCamp | | |  | |  | | | Free |
+|  |  |  [Learn C++ Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) | Udacity | | |  | |  | | Free |
+|  | | [C++ Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | Buckys | | |  | | | | Free |
+|  | | [C++ Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | Portfolio Courses | | |  | |  | | Free |
+|  | | [C++ Programming](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) | freeCodeCamp | | |  | |  | | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Mostafa Saad | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3), [Tutorials: OOP & OOD](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) | |  | Youtube | |  | | | Free |
-| Adel Nasim | | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) | |  | Youtube | |  | | | Free |
+| Adel Nasim | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) | |  | Youtube | |  | | | Free |
 | Mohamed El-Desouki | | [Tutorials: C++ & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) | |  | Youtube | |  | | | Free |
 | Tarek Alabd || [Tutorials: OOP with C++](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) | |  | Youtube | |  | | | Free |
 | Osama Elzero | | [Programming With C++](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | Elzero Web School | | Youtube | |  | | | Free |

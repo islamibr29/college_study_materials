@@ -17,10 +17,10 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | | [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Neso Academy |  | Youtube | Basics | | | | Free |
-| C Programming | | Portfolio Courses | [Tutorials: Part1](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif), [Tutorials: Part2](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90) | Advanced |
-| Pointers in C | [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Tutorial](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | Hot Topic |
-| C Programming Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) | |
-|  C Programming | Youssef Shawky || [Tutorials](https://www.youtube.com/playlist?list=PLVp0hvzMSQHTlz2CNlbhq-E6WYYujm7b8) ||
+|  | | [C Programming: Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif), [C Programming: Examples](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90) |  Portfolio Courses |  | Youtube | Advanced |  | | | Free |
+| [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Pointers in C](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | |  | Drive | Advanced |  | | | Free |
+|  | | [C Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) | Buckys |  | Youtube | |  | | | Free |
+| Youssef Shawky | | [C Programming](https://www.youtube.com/playlist?list=PLVp0hvzMSQHTlz2CNlbhq-E6WYYujm7b8) | |  | Youtube | |  | | | Free |
 
 #### C++ 
 | Name | Instructor | Institute | Material | Notes |

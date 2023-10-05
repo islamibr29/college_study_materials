@@ -64,8 +64,6 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Osama Elzero | | [Mastering Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) | Elzero Web School | | Youtube | |  | | | Free 
 | Abdelrahman Gamal || [Python for Beginners](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) | |  | Youtube | |  | | | Free |
 
-
-
 #### Java
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
@@ -83,21 +81,19 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 
 
 ### Data Structures
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS 61B | | Berkeley University | [Lectures, Labs, Assignments](http://fa20.datastructur.es/) | Java |
-|  CS214: Data Structures | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca), [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | C |
-| Data Structures | Adel Nasim | | [Tutorials](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) |C|
-| Data Structures: Easy to Advanced |  | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org) | Java|
-| Data Structures  | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) |C|
-| Data Structures | Dr. Mostafa Saad | | [Tutorials](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM)| C |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [CS 61B](http://fa20.datastructur.es/) | Berkeley University | | | |  | Java | | Free |
+| |  | [Data Structures: Easy to Advanced](https://www.youtube.com/watch?v=RBSGKlAvoiM&ab_channel=freeCodeCamp.org) | freeCodeCamp| | | |  | Java | | Free |
 
-### Discrete Mathematics
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Mathematics for Computer Science | | MIT | [Lectures, Lecture Materials, Assignments](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))  | Solutions: [2015/2019](https://github.com/spamegg1/Math-for-CS-solutions), [2010](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems), [2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) |
-| MA112: Discrete Mathematics I | [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | Helwan University | [Lectures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S), [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics)  | |
-| Math 55: Discrete Mathematics | | Berkeley University |[Lectures](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC) ||
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | | [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca) | Helwan University | [Labs, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DataStructures)  | Youtube | | | C | | Free |
+| Adel Nasim | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) | |  | Youtube | |  | C | | Free |
+| Mohamed El-Desouki | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) | |  | Youtube | |  | C | | Free |
+|  | Dr. Mostafa Saad | | [Data Structures Tutorials](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM)| |  | Youtube | |  | C | | Free |
 
 ### Algorithms
 | Name | Instructor | Institute | Material | Notes |

@@ -7,6 +7,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 ### Intro to CS
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+#### English Courses
 | | | [ CS Crash Course ](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye) | Crash Course  | | Youtube | | | | | Free |
 | [David J. Malan](https://www.linkedin.com/in/malan/) |  | [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x) | Harvard University | | | | | | | Free |
 | |  | [Introduction To Computer Science In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | | | | | | | Free |
@@ -14,48 +15,71 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 
 ### Programming Language and OOP
 #### C
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | | [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Neso Academy |  | Youtube | Basics | | | | Free |
 |  | | [C Programming: Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif), [C Programming: Examples](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90) |  Portfolio Courses |  | Youtube | Advanced |  | | | Free |
-| [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Pointers in C](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | |  | Drive | Advanced |  | | | Free |
 |  | | [C Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) | Buckys |  | Youtube | |  | | | Free |
+
+
+#### Arabic Courses
+ Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Youssef Shawky | | [C Programming](https://www.youtube.com/playlist?list=PLVp0hvzMSQHTlz2CNlbhq-E6WYYujm7b8) | |  | Youtube | |  | | | Free |
+| [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Pointers in C](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | |  | Drive | Advanced |  | | | Free |
 
 #### C++ 
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| C++ & OOD & OOP | Dr. Mostafa Saad | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3), [Tutorials: OOP & OOD](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) ||
-| C++ & OOP | Adel Nasim | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) ||
-| C++ & OOP | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) ||
-| OOP with C++ | Tarek Alabd || [Tutorials](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) ||
-| Learn C++ | | Udacity |  [Tutorials](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) ||
-| C++ Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | |
-| C++ Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | |
-| Programming With C++ | | Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | |
-| C++ Programming | | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) ||
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  |  |  [Learn C++ Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213?irclickid=ztE3SWSu7xyNWk7U4oXYJXJuUkF20LWlvTaRz00&irgwc=1&utm_source=affiliate&utm_medium=&aff=2890636&utm_term=&utm_campaign=__&utm_content=tutorials%2Flearn-c-plus_amcid-eiQ3b3seoiPo2zZMzQbxU&adid=786224) | Udacity | | |  | |  | | | Free |
+|  | | [C++ Tutorials](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) | Buckys | | |  | |  | | | Free |
+|  | | [C++ Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6BdpNaWp2uw-YspHwY7qwW) | Portfolio Courses | | |  | |  | | | Free |
+|  | | [C++ Programming](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) | freeCodeCamp | | |  | |  | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Mostafa Saad | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3), [Tutorials: OOP & OOD](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) | |  | Youtube | |  | | | Free |
+| Adel Nasim | | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) | |  | Youtube | |  | | | Free |
+| Mohamed El-Desouki | | [Tutorials: C++ & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) | |  | Youtube | |  | | | Free |
+| Tarek Alabd || [Tutorials: OOP with C++](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) | |  | Youtube | |  | | | Free |
+| Osama Elzero | | [Programming With C++](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | Elzero Web School | | Youtube | |  | | | Free |
 
 
 #### Python
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
-| Python for Everyone | | Michigan University | [Lectures, Lecture Materials, Assignments](https://www.py4e.com/) | |
-| Master Python & OOP || CodeZilla | [Tutorials: Python](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) ||
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [Python for Everyone](https://www.py4e.com/) | Michigan University | | Youtube | |  | | | Free |
+| | | [Python Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX73xlgzMb4jzjBSCGp0Rpto) | Portfolio Courses || Youtube | |  | | | Free |
+| Mosh | | [Python Tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh) | | | Youtube | |  | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) |  | [Python Basics](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | Big Data بالعربي | | Youtube | |  | | | Free |
+| | | [Tutorials: Python](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) | CodeZilla | | Youtube | |  | | | Free |
 | Mastering Python || Elzero Web School | [Tutorials](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) ||
-| Python for Beginners | Abdelrahman Gamal | | [Tutorials](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) ||
-| Python Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX73xlgzMb4jzjBSCGp0Rpto) | |
-| Python Tutorial | Mosh | | [Tutorials](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh) ||
+| Abdelrahman Gamal || [Python for Beginners](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) | |  | Youtube | |  | | | Free |
+
+
 
 #### Java
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Java & OOP | Adel Nasim | | [Tutorials: Java](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) ||
-| Java  & OOP | Mohamed El-Desouki | | [Tutorials](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) ||
-| Java Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) | |
-| Java Video Tutorial | Derek Banas | | [Tutorials](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19) | |
-| Java Basics |  | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=GoXwIVyNvX0&ab_channel=freeCodeCamp.org) ||
-| OOP in Java | | UC San Diego University | [Tutorials](https://www.coursera.org/learn/object-oriented-java?fbclid=IwAR0AX4obGMcxfhD4Ote2Wf2OH4rwNSgQLiz1UbJVjWt8GdoJeSkX_yZnwg0) ||
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [Java Tutorials](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28) | Buckys | | Youtube | |  | | | Free |
+| Derek Banas | | [Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19) | | | Youtube | |  | | | Free |
+|  | | [Java Basics](https://www.youtube.com/watch?v=GoXwIVyNvX0&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | |  | | | Free |
+|  | | [OOP in Java](https://www.coursera.org/learn/object-oriented-java?fbclid=IwAR0AX4obGMcxfhD4Ote2Wf2OH4rwNSgQLiz1UbJVjWt8GdoJeSkX_yZnwg0) | UC San Diego University | | Youtube | |  | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Adel Nasim | | [Tutorials: Java](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) | |  | Youtube | |  | | | Free |
+| Mohamed El-Desouki | | [Tutorials: Java  & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) | | |  | Youtube | |  | | | Free |
 
 
 ### Data Structures

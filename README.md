@@ -8,7 +8,7 @@ Behold the Quantum Nexus, an interdimensional repository that transcends the bou
 ## 📚 The Multiverse of Subjects
 Unleash the power of your curiosity as we traverse the multidimensional tapestry of learning. Prepare to encounter realms beyond imagination:
 ### Basics
-- [**ECE Fundamentals**]()
+- [**ECE Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/ECE.md)
 - [**CSE Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CSE.md)
 - [**Mathematics**](https://github.com/islamibr/College/blob/main/Materials/Math.md)
 

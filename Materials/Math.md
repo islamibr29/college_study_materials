@@ -143,7 +143,7 @@
 | Dr. Waleed Yousef | 2019 | [Optimization](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | Youtube | Still Recording | | | 7 Hours | Free |
 | Dr. Ahmed Abdel Samea | 2020 | [Linear & Nonlinear Programming](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNgFlHdOarAnYZvkusmDSq_) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/19FBR0BhZZY2OC8mRsyVBb8xSlPwaVfEl?usp=sharing) | Youtube |  | | Calculus I&II Linear Algebra | 32 Hours | Free |
 
-## Discrete Mathematics
+### Discrete Mathematics
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

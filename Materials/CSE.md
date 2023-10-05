@@ -12,16 +12,17 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | |  | [Introduction To Computer Science In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | | | | | | | Free |
 |  | |[CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) | Berkeley University | | | | | | | Free |
 
-### C
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| C Programming | | Neso Academy | [Tutorials](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Basics |
+### Programming Language and OOP
+#### C
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Neso Academy |  | Youtube | Basics | | | | Free |
 | C Programming | | Portfolio Courses | [Tutorials: Part1](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif), [Tutorials: Part2](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90) | Advanced |
 | Pointers in C | [Eng. Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-755071150/) | | [Tutorial](https://drive.google.com/drive/folders/1RTg7JrMcan9sWrosrYqkRkNXrRAf_mcb) | Hot Topic |
 | C Programming Tutorials | Buckys | | [Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) | |
 |  C Programming | Youssef Shawky || [Tutorials](https://www.youtube.com/playlist?list=PLVp0hvzMSQHTlz2CNlbhq-E6WYYujm7b8) ||
 
-### C++ 
+#### C++ 
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | C++ & OOD & OOP | Dr. Mostafa Saad | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3), [Tutorials: OOP & OOD](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) ||
@@ -35,7 +36,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | C++ Programming | | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o&ab_channel=freeCodeCamp.org) ||
 
 
-### Python
+#### Python
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Python Basics | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorials](https://www.youtube.com/playlist?list=PLrooD4hY1QqCCAbHdQTJ-BpVFQlCu_Pg1) | |
@@ -46,7 +47,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Python Tutorials | | Portfolio Courses | [Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX73xlgzMb4jzjBSCGp0Rpto) | |
 | Python Tutorial | Mosh | | [Tutorials](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh) ||
 
-### Java
+#### Java
 | Name | Instructor | Institute | Material | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Java & OOP | Adel Nasim | | [Tutorials: Java](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) ||

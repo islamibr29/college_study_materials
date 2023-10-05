@@ -38,6 +38,7 @@
 
 
 ### Differential Equations (Calculus IV)
+#### DEs
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -45,12 +46,18 @@
 | Prof. Arthur Mattuck | 2011 | [18.03SC: Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E) ([alt](https://www.edx.org/xseries/mitx-18.03x-differential-equations)) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | Youtube, MIT OCW, edX | | | Multivariable Calculus | 31 Hours | Free |
 | Prof. Steve Brunton | 2022 | [Engineering Math: Differential Equations and Dynamical Systems](https://www.youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) | Washington University | | Youtube | | | Multivariable Calculus | 22 Hours | Free |
 | Prof. Steve Brunton | 2022 | [Engineering Math: Partial Differential Equations](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) | Washington University | | Youtube | From Video No. 12 | | Multivariable Calculus | 6 Hours | Free |
-| Prof. Steve Brunton | 2020 | [Fourier Analysis: Data-Driven Science and Engineering](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) | Washington University | | Youtube | | | Differential Equations | 8 Hours | Free |
-| Prof. Osgood, Brad G | 2007 | [EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261) | Stanford University | | Stanford SEE | | | Differential Equations | 30 Hours | Free |
 |  | 2009 | [Differential Equations](https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902) | Khan Academy | | Youtube | | | Multivariable Calculus | 8 Hours | Free |
 | Prof. Jeffrey Chasnov | 2019  | [Differential Equations for Engineers](https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w) ([alt](https://www.coursera.org/learn/differential-equations-engineers)) | Hong Kong University | [Lecture Materials](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) | Youtube, Coursera | | | Multivariable Calculus | 11 Hours | Free |
 | Prof. Gilbert Strang | 2015 | [RES.18-009: Learn Differential Equations](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/) | Youtube, MIT OCW | | | Multivariable Calculus | 16 Hours | Free |
 
+#### Transformations
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Steve Brunton | 2020 | [Fourier Analysis: Data-Driven Science and Engineering](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC) | Washington University | | Youtube | | | Differential Equations | 8 Hours | Free |
+| Prof. Osgood, Brad G | 2007 | [EE261 - The Fourier Transform and its Applications](https://see.stanford.edu/course/ee261) | Stanford University | | Stanford SEE | | | Differential Equations | 30 Hours | Free |
+
+#### DEs
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

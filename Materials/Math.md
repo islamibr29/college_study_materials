@@ -142,3 +142,16 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Waleed Yousef | 2019 | [Optimization](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_Y3uZXLCPywdXL5oqKe7d3) | Helwan University | [Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/Optimization) | Youtube | Still Recording | | | 7 Hours | Free |
 | Dr. Ahmed Abdel Samea | 2020 | [Linear & Nonlinear Programming](https://www.youtube.com/playlist?list=PL-XWNe_oYcGNgFlHdOarAnYZvkusmDSq_) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/19FBR0BhZZY2OC8mRsyVBb8xSlPwaVfEl?usp=sharing) | Youtube |  | | Calculus I&II Linear Algebra | 32 Hours | Free |
+
+## Discrete Mathematics
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/))  | MIT | Solutions: [2015/2019](https://github.com/spamegg1/Math-for-CS-solutions), [2010](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems), [2005](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) |  Youtube | |  | | | Free |
+|  | |[Math 55: Discrete Mathematics](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC) | Berkeley University |  | Youtube | |  | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef) | | [MA112: Discrete Mathematics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm_WKBBBHUQJRXaumduqkM4S)| Helwan University | [Lectures, Lecture Materials, Assignments](https://github.com/DrWaleedAYousef/Teaching/tree/master/DiscreteMathematics) | Youtube | | | C | | Free |
+

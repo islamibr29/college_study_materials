@@ -25,6 +25,11 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 ### Mutual Disciplines
 - [**Electronic Systems**]()
 
+### Other Stuff
+- [**Prerequisites**]()
+- [**Scientific Research**]()
+- [**Entrepreneurship**]()
+
 ## 💡 Illuminate the Cosmos
 
 In this boundless cosmos of knowledge, illumination knows no bounds. Together, we shall unveil the secrets of the universe, unravel the mysteries of science, and illuminate our minds with the brilliance of wisdom.

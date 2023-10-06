@@ -83,11 +83,17 @@
 | Dr. Hatem Fayed | 2019 | [Linear Algebra and Vector Geometry](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP-ZoRaODBHsRCQltIHKq6A) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1EdIUsa7aM1-7juQaEk3-RdT8YgllP-df?usp=sharing) | Youtube | | | Single Variable Calculus |  21 Hours | Free |
 
 ### Real & Complex Analysis
+#### Real Analysis
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Casey Rodriguez | 2020 | [MIT 18.100A: Real Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | Youtube, MIT OCW | | | | 30 Hours | Free |
 | Prof. Bill Kinney | 2016 | [Introduction to Real Analysis](https://www.youtube.com/playlist?list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu) | | | Youtube | | | | 34 Hours | Free |
+
+#### Complex Analysis
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Bill Kinney | 2017 | [Introduction to Complex Analysis](https://www.youtube.com/playlist?list=PLmU0FIlJY-MnxAkob30Q5kI0SfPx56Uya) | |  | Youtube | | | | 33 Hours | Free |
 | Prof. Steve Brunton | 2023 | [Engineering Math: Crash Course in Complex Analysis](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQBRslPb7I0yTnES981R8Cg) | Washington University | | Youtube | | | | 6 Hours | Free |
 

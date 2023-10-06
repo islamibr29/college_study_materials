@@ -133,37 +133,58 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Mohamed El-Desouki | | [Database Tutorials](https://www.youtube.com/playlist?list=PL37D52B7714788190) | | | Youtube | | |  | | Free |
 
 ### Operating Systems
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS-537: Introduction to Operating Systems | | Wisconsin University | [Lectures, Lecture Materials, Assignments](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | C |
-| CS-342: Operating Systems | | Bilkent  University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=8) |  |
-| CS 162: Operating Systems and Systems Programming || Berkeley University | [Lectures](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC), [Lecture Materials, Assignments](https://cs162.org/) ||
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [CS-537: Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | Wisconsin University | |  | | |  C | | Free |
+|  | | [CS-342: Operating Systems](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | Bilkent  University | |  | | |  | | Free |
+|  | | [CS 162: Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | Berkeley University | [Lecture Materials, Assignments](https://cs162.org/) | |  | | |  | | Free |
 
 ### Networks
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Computer Networking: a Top-Down Approach | | Umass | [Lectures, Assignments](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm), [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  |  | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | Umass | [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |  | | |  | | Free |
 
 ### Software Engineering 
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Software Engineering Lectures | Dr. Bob Laramee | | [Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) | |
-| Software Engineering: Introduction | |  British Columbia University | [Lectures, Assignments](https://www.edx.org/course/software-engineering-introduction) |
-| CS251 Software Engineering | Amr S. Ghoneim | | [Lectures](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-) ||
-| Software Engineering Essentials || Technical University of Munich | [Lectures](https://www.edx.org/course/software-engineering-essentials) ||
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Bob Laramee | | [Software Engineering Lectures](https://www.youtube.com/playlist?list=PLZo40sVmw_4MtSKbhU4e8-tl8qG9ueyRj#_=_) || | Youtube | | |  | | Free |
+|  | | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | British Columbia University | | edX | | |  | | Free |
+| | | [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials) | Technical University of Munich | | edX | | |  | | Free |
 
-### Computer Architecture
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Amr S. Ghoneim | | [CS251 Software Engineering](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-) || | Youtube | | |  | | Free |
+
+### Computer Organization & Architecture 
+#### Basics
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [From Nand to Tetris](https://www.nand2tetris.org/)  || |  | | |  | | Free |
+| | | [Computation Structures: Part 1](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016), [Computation Structures: Part 2](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015), [Computation Structures: Part 3](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)) | MIT | | edX | | |  | | Free |
+
+#### Organization
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| CS/ECE 3810: Computer Organization | | Utah University | [Lectures, Lecture Materials, Assignments](https://users.cs.utah.edu/~rajeev/cs3810/) | |
+| CS-224: Computer Organization | | Bilkent University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | |
+| Computer Organization, EECS2021E, RISC-V Version | | York University | [Lectures](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW), [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/) | |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| CSE212: Computer Organization | | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY), [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ)  | |
+
+#### Architecture
 | Introduction to Computer Architecture | | Carnegie Mellon University | [Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq), [Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | |
 | Computer Architecture |  | Princeton University | [Lectures](https://www.coursera.org/learn/comparch)  | Advanced | 
 | Digital Design & Computer Architecture | | ETH Zürich University | [Lectures, Labs, Assignments](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule) | |
-| Computer Organization and Architecture, EECS2021E, RISC-V Version | | York University | [Lectures](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW), [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/) | |
-| CS/ECE 3810: Computer Organization | | Utah University | [Lectures, Lecture Materials, Assignments](https://users.cs.utah.edu/~rajeev/cs3810/) | |
-| CS-224: Computer Organization | | Bilkent University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | |
-| CSE212: Computer Organization | | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY), [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ)  | |
-| Computation Structures | | MIT | [Lectures Part 1](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016), [Lectures Part 2](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015), [Lectures Part 3](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)) ([alt](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)) | |
-| From Nand to Tetris | | |  [Lectures, Lecture Materials, Assignments](https://www.nand2tetris.org/) | |
+
 
 ### Tools
 | Name | Instructor | Institute | Material | Notes |

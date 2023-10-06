@@ -22,7 +22,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | | | [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) | Neso Academy |  | Youtube | Basics | | | | Free |
 |  | | [C Programming: Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif), [C Programming: Examples](https://www.youtube.com/playlist?list=PLA1FTfKBAEX6dPcQitk_7uL3OwDdjMn90) |  Portfolio Courses |  | Youtube | Advanced |  | | | Free |
 |  | | [C Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) | Buckys |  | Youtube | |  | | | Free |
-
+| | | [C Programming Tutorials](https://www.youtube.com/playlist?list=PLfqABt5AS4FmErobw8YyTwXDUE5nPH5lH) | CodeVault | | Youtube | |  | | | Free |
 
 #### Arabic Courses
  Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

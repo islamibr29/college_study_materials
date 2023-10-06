@@ -23,8 +23,19 @@
 | Dr. Tamer AbuElfadl | 2020 | [Electrodynamics I](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP7KQBJO2zVo9Aohd4BqULu) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1iJdiITr88SP7oLIAiTDrHOLPgwlGnp4N?usp=sharing) | Youtube | | | | 24 Hours | Free |
 
 #### Waves
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Yen-Jie Lee | 2016 | [8.03SC: Physics III: Vibrations And Waves](https://www.youtube.com/playlist?list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/) | Youtube, MIT OCW | | | | 31 Hours | Free |
+| Prof. Walter Lewin | 2004 | [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro21aOsJf4OYLbtTMvU45k7bS) | Youtube | Each lecture have homework in description | | | 31 Hours | Free |
+| Prof. Frank Porter | 2020 | [Ph2a: Vibrations and Waves](https://www.youtube.com/playlist?list=PL8_xPU5epJddx_jh8YrBg-aCbKim8w0xm) | Caltech | [Lecture Materials, Assignments](http://waves.caltech.edu/) | Youtube | | | | 34 Hours | Free |
+
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Mohamed Ismail | 2017 | [Physics III](https://www.youtube.com/playlist?list=PLD30uL4tqplE-3lvM_eqLmyxF9Hp1S_F2) | Zagazig University | | Youtube | | | | 10 Hours | Free |
+
 
 ### Modern Physics
 #### Special Relativity

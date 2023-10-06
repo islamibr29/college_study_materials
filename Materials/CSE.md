@@ -138,13 +138,13 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  | | [CS-537: Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | Wisconsin University | |  | | |  C | | Free |
 |  | | [CS-342: Operating Systems](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | Bilkent  University | |  | | |  | | Free |
-|  | | [CS 162: Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | Berkeley University | [Lecture Materials, Assignments](https://cs162.org/) | |  | | |  | | Free |
+|  | | [CS 162: Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | Berkeley University | [Lecture Materials, Assignments](https://cs162.org/) | |  | | | | | | Free |
 
 ### Networks
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |  | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | Umass | [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |  | | |  | | Free |
+|  |  | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | Umass | [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |  | | |  | | | Free |
 
 ### Software Engineering 
 #### English Courses
@@ -173,20 +173,20 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  | | [CS/ECE 3810: Computer Organization](https://users.cs.utah.edu/~rajeev/cs3810/) |  Utah University | | | | |  | | Free |
 |  | | [CS-224: Computer Organization](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | Bilkent University  | | | | |  | | Free |
-|  | | [Computer Organization, EECS2021E, RISC-V Version](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW) | York University  | [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/)  | | |  | | Free |
+|  | | [Computer Organization, EECS2021E, RISC-V Version](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW) | York University  | [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/)  | | | | | | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |  | [CSE212: Computer Organization](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY)  | Ain Shams University | [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ) | | |  | | Free |
+|  |  | [CSE212: Computer Organization](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY)  | Ain Shams University | [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ) | | | |  | | Free |
 
 #### Architecture
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  | | [Introduction to Computer Architecture](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Carnegie Mellon University | [Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | | |  | | Free |
-|  | | [Computer Architecture](https://www.coursera.org/learn/comparch)  | Princeton University | | | |  | Advanced | Free |
-|  | | [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)  | ETH Zürich University | | | |  | | Free |
+|  | | [Introduction to Computer Architecture](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Carnegie Mellon University | [Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | | |  || | Free |
+|  | | [Computer Architecture](https://www.coursera.org/learn/comparch)  | Princeton University | | | | | | Advanced | Free |
+|  | | [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)  | ETH Zürich University | | | | | | | Free |
 
 
 ### Tools
@@ -194,7 +194,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  |  | [Missing Semester](https://missing.csail.mit.edu/2020/) | MIT | | | |  | Advanced | Free |
-|  | | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | |  | | Advanced | Free |
+|  | | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | | | Advanced | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

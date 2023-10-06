@@ -171,24 +171,32 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CS/ECE 3810: Computer Organization | | Utah University | [Lectures, Lecture Materials, Assignments](https://users.cs.utah.edu/~rajeev/cs3810/) | |
-| CS-224: Computer Organization | | Bilkent University | [Lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | |
-| Computer Organization, EECS2021E, RISC-V Version | | York University | [Lectures](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW), [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/) | |
+|  | | [CS/ECE 3810: Computer Organization](https://users.cs.utah.edu/~rajeev/cs3810/) |  Utah University | | | | |  | | Free |
+|  | | [CS-224: Computer Organization](http://video.bilkent.edu.tr/course_videos.php?courseid=16) | Bilkent University  | | | | |  | | Free |
+|  | | [Computer Organization, EECS2021E, RISC-V Version](https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iUJpNzCOtQKRfpswCrPbiW) | York University  | [Labs, Assignments](https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2021E/)  | | |  | | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| CSE212: Computer Organization | | Ain Shams University | [Lectures](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY), [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ)  | |
+|  |  | [CSE212: Computer Organization](https://www.youtube.com/playlist?list=PLffO0PKa_AqFJvjeFbHef2SkW0KyuH5DY)  | Ain Shams University | [Labs, Assignments](https://drive.google.com/drive/folders/15tb16T66hj8ETuBPFX1iHDi62FuUfV3Y?fbclid=IwAR0T8I8JcHDaLkUN5TI-XOYawHUYqSlIhe-KnCBLwjuDmFYTo6nWEdFe4QQ) | | |  | | Free |
 
 #### Architecture
-| Introduction to Computer Architecture | | Carnegie Mellon University | [Lectures](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq), [Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | |
-| Computer Architecture |  | Princeton University | [Lectures](https://www.coursera.org/learn/comparch)  | Advanced | 
-| Digital Design & Computer Architecture | | ETH Zürich University | [Lectures, Labs, Assignments](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule) | |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  | | [Introduction to Computer Architecture](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Carnegie Mellon University | [Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | | |  | | Free |
+|  | | [Computer Architecture](https://www.coursera.org/learn/comparch)  | Princeton University | | | |  | Advanced | Free |
+|  | | [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)  | ETH Zürich University | | | |  | | Free |
 
 
 ### Tools
-| Name | Instructor | Institute | Material | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Git and GitHub | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | Big Data بالعربي | [Tutorial](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | |
-| Missing Semester | | MIT | [Lectures, Labs, Assignments](https://missing.csail.mit.edu/2020/) | Linux Tutorial |
-|  Linux & Terminal Commands | | freeCodeCamp | [Tutorial](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) |  |
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  |  | [Missing Semester](https://missing.csail.mit.edu/2020/) | MIT | | | |  | Advanced | Free |
+|  | | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | |  | | Advanced | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | | [ Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | Big Data بالعربي | | Youtube | |  | | Advanced | Free |

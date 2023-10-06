@@ -12,6 +12,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | [David J. Malan](https://www.linkedin.com/in/malan/) |  | [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x) | Harvard University | | | | | | | Free |
 | |  | [Introduction To Computer Science In Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | | | | | | | Free |
 |  | |[CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa22/) | Berkeley University | | | | | | | Free |
+| |  | [Introduction To Computational Thinking And Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | MIT | | | | | Introduction To Computer Science In Python | | Free |
 
 ### Programming Language and OOP
 #### C

@@ -1,6 +1,7 @@
 # ECE Fundamentals
 
 ### Intro to EE
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | | [6.01SC Introduction to EECS](https://www.youtube.com/playlist?list=PL9B24A6A9D5754E70) | MIT | [Lecture Materials, Assignment ](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) | Youtube | | | | | Free |

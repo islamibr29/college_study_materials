@@ -194,9 +194,9 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  |  | [Missing Semester](https://missing.csail.mit.edu/2020/) | MIT | | | Advanced |  | | | Free |
-|  | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | Advanced | |  | Free |
+|  | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | Advanced | | | | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | | [ Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | Big Data بالعربي | | Youtube | |  | | Advanced | Free |
+| [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | | [ Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | Big Data بالعربي | | Youtube | Advanced |  | |  | Free |

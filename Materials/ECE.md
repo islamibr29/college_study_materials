@@ -38,7 +38,7 @@
 
 
 ### Modern Physics
-#### Special Relativity
+#### Quantum Mechanics
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -54,7 +54,7 @@
 | Dr. Micheal | 2017 | [PHM121s: Modern Physics and Quantum Mechanics](https://www.youtube.com/playlist?list=PLffO0PKa_AqHVhar_Tvhx5Wsyhd0p88IH) | Ain Shams University | | Youtube | | | | 13 Hours | Free |
 | Dr. Tarek Ibrahim | 2016 | [Modern Physics](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPmJEbTx8UDLZkwT1LKC-pq) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | 17 Hours | Free |
 
-#### Quantum Mechanics
+#### Special Relativity
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 

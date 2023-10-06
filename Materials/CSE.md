@@ -185,7 +185,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  | | [Introduction to Computer Architecture](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Carnegie Mellon University | [Labs, Assignments](https://course.ece.cmu.edu/~ece447/s15/doku.php) | | |  || | Free |
-|  | | [Computer Architecture](https://www.coursera.org/learn/comparch)  | Princeton University | | | | | | Advanced | Free |
+|  | | [Computer Architecture](https://www.coursera.org/learn/comparch)  | Princeton University | | | Advanced | | |  | Free |
 |  | | [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)  | ETH Zürich University | | | | | | | Free |
 
 
@@ -194,7 +194,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  |  | [Missing Semester](https://missing.csail.mit.edu/2020/) | MIT | | | Advanced |  | | | Free |
-|  | | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | Advanced | |  | Free |
+|  | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | Advanced | |  | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

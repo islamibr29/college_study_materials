@@ -26,7 +26,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Electronic Systems**]()
 
 ### Other Stuff
-- [**Prerequisites**]()
+- [**Useful Materials**]()
 - [**Scientific Research**]()
 - [**Entrepreneurship**]()
 

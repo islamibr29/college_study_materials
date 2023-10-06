@@ -138,13 +138,13 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |  | | [CS-537: Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | Wisconsin University | |  | | |  C | | Free |
 |  | | [CS-342: Operating Systems](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | Bilkent  University | |  | | |  | | Free |
-|  | | [CS 162: Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | Berkeley University | [Lecture Materials, Assignments](https://cs162.org/) | |  | | | | | | Free |
+|  | | [CS 162: Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | Berkeley University | [Lecture Materials, Assignments](https://cs162.org/) | |  | | | | Free |
 
 ### Networks
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |  | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | Umass | [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |  | | |  | | | Free |
+|  |  | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | Umass | [Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |  | | | | Free |
 
 ### Software Engineering 
 #### English Courses
@@ -193,8 +193,8 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|  |  | [Missing Semester](https://missing.csail.mit.edu/2020/) | MIT | | | |  | Advanced | Free |
-|  | | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | | | Advanced | Free |
+|  |  | [Missing Semester](https://missing.csail.mit.edu/2020/) | MIT | | | Advanced |  | | | Free |
+|  | | | [Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc&ab_channel=freeCodeCamp.org) | freeCodeCamp | | Youtube | Advanced | |  | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

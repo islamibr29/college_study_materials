@@ -46,7 +46,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Adel Nasim | | [Tutorials: CPP](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) | |  | Youtube | |  | | | Free |
 | Mohamed El-Desouki | | [Tutorials: C++ & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) | |  | Youtube | |  | | | Free |
 | Tarek Alabd || [Tutorials: OOP with C++](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) | |  | Youtube | |  | | | Free |
-| Osama Elzero | | [Programming With C++](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) | Elzero Web School | | Youtube | |  | | | Free |
+| Osama Elzero | | [Programming With C++](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS), [Problem Solving with C++](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru)| Elzero Web School | | Youtube | |  | | | Free |
 
 
 #### Python
@@ -141,6 +141,11 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 |  | | [CS-342: Operating Systems](http://video.bilkent.edu.tr/course_videos.php?courseid=8) | Bilkent  University | |  | | |  | | Free |
 |  | | [CS 162: Operating Systems and Systems Programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) | Berkeley University | [Lecture Materials, Assignments](https://cs162.org/) | |  | | | | Free |
 
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Ahmed Hagag | | [Operating Systems Lectures](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) | | | Youtube | | |  | | Free |
+
 ### Networks
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
@@ -201,3 +206,12 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | | [ Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | Big Data بالعربي | | Youtube | Advanced |  | |  | Free |
+
+### Problem Solving
+> Choose only one, whatever you think is best.
+- [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
+- [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
+- ICPC Mansoura
+  - [Level 0](https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM/edit?usp=drivesdk)
+  - [Level 1](https://docs.google.com/spreadsheets/d/1lspiEG_XNOeVcMcAl1cpJ3aBldEKkmedVQ-eEdI28sE/edit?usp=drivesdk)
+- [ICPC Mostafa Saad](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=84654839)

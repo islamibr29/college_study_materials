@@ -208,7 +208,6 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | | [ Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | Big Data بالعربي | | Youtube | Advanced |  | |  | Free |
 
 ### Problem Solving
-> Choose only one, whatever you think is best.
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
 - [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
 - ICPC Mansoura

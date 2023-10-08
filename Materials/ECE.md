@@ -57,19 +57,32 @@
 #### Special Relativity
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Leonard Susskind | 2008 | [Modern Physics: Special Relativity](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772) | Stanford University | | Youtube | | | | 14 Hours | Free |
+| | 2021 | [Introduction To Special Relativity](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/) | MIT | | Youtube | | | | | Free |
 
 ### Solid State
 #### Semiconductor Physics
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Sergey Frolov | 2015 | [Introduction to Solid State Physics](https://www.youtube.com/playlist?list=PLtTPtV8SRcxi91n9Mni2xcQX4KhjX91xp) | University of Pittsburgh | | Youtube | | | | 29 Hours | Free |
+| Prof. Sandro Scandolo | 2012 | [Solid State Physics SISSA](https://www.youtube.com/playlist?list=PLd9hKAUC3AZvJsxR00ZJqBmabGfNScHu0) | ICTP | | Youtube | | | | 28 Hours | Free |
+| Prof. Jeffrey C. Grossman | 2018 | [3.091: Introduction to Solid-State Chemistry](https://www.youtube.com/playlist?list=PLUl4u3cNGP63z5HAguqleEbsICfHgDPaG) | MIT | [Lecture Materials](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/) | Youtube, MIT OCW | | | | 31 Hours | Free |
+| Prof. Steven H. Simon | 2013 | [Solid State Physics](https://www.youtube.com/playlist?list=PLd9hKAUC3AZuo7is-aN45pmfDwJHOqKAj) | Oxford University | | Youtube | | | | 18 Hours | Free |
 
 #### Semiconductor Devices
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ### Circuits
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Ali Hajimiri | 2016 | [EE44: Circuits and Systems](https://www.youtube.com/playlist?list=PLc7Gz02Znph_HU1I9STgC4Nv0aG_jdb8Z) | Caltech | | Youtube | | | | 32 Hours | Free |
+| Dr. Ravel Ammerman | 2013 | [EGGN 281: Introduction to Electric Circuits](https://www.youtube.com/playlist?list=PL8kq5qsK0cc42p-m3eGHiuCi3Xr_ORv9W) | | | Youtube | | | | 31 Hours | Free | 
+| Adam | 2016 | [Circuits](https://www.youtube.com/playlist?list=PLvJZZcg6Js7r8xKTR6lOI6eUmXEHDfGTH) | UConn HKN | | Youtube | not completed | | | 8 Hours | Free |
+| Prof. Anant Agarwal | 2007 | [Circuits And Electronics](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) | Youtube | | | | 21 Hours | Free |
+| Prof. Razavi | | [Basic Circuit Theory I](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x) | University of California | | Youtube | | | | 32 Hours | Free |
 
 ### Electronics
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

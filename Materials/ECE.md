@@ -90,11 +90,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-### Digital Logic & Circuits
-#### Logic
-| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-
+### Digital Circuits & Electronics
 #### Circuits
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
@@ -106,8 +102,14 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | | [Digital Circuits Lectures](https://www.youtube.com/playlist?list=PL291W0pS_KD056uCeGqg_g7nVeTVUxYKr) | Ain Shams University | [Labs](https://www.youtube.com/playlist?list=PL291W0pS_KD2YA8Ty-ENkoFLq1XcupSVv), [Course Materials](https://drive.google.com/drive/u/0/folders/1-Pz3hgViJgqfFcm9YJaQJE7s7lbYCvN8) | Youtube | | | | | Free |
 
-#### HDLs
-#### Verilog
+#### Logic
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dr. Ayman Wahba](https://www.linkedin.com/in/ayman-wahba-a8661a6/)  |   | [CSE111](https://www.youtube.com/playlist?list=PLBt5ZQGn4YKTD2mVI1eBwAVR1gsqpWkwg) | Ain Shams University | [Sheets](https://drive.google.com/drive/folders/12UeIoxlNAUl6HHyeVsIsW0T9RDRUZ4u1?fbclid=IwAR2nMn1cPCxkjxyySOS-qeEJfU5Pu_6HPQnukfjlwo1oOWkd-_5Hz52eZis), [Project](https://drive.google.com/drive/folders/1s5MosT41mBLJQygD_XwOPDtJ-Zpq9RJ5?fbclid=IwAR2nMn1cPCxkjxyySOS-qeEJfU5Pu_6HPQnukfjlwo1oOWkd-_5Hz52eZis) | Youtube | | | | | Free |
+| [Dr. Waleed Yousef](https://www.facebook.com/DrWaleedAYousef)  |  | [CS221: Digital Design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) |  Helwan University | [Reference](https://docs.google.com/file/d/0B8-drkZsESDnN2NmYTQxYjQtYTMwZi00N2IzLTkxNjgtZjI1NTZiN2FjNDli/edit?resourcekey=0-Yk8bAsCt9I5epBNFTG8KMQ), [Materials](https://github.com/DrWaleedAYousef/Teaching/tree/master/DigitalDesign) | Youtube | | | | | Free |
+
+#### HDLs: Verilog
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -115,7 +117,7 @@
 | | | [Verilog Basics](https://learning.intel.com/Developer/learn/course/external/view/classroom/862/verilog-hdl-basics), [Verilog Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) | Intel | | | | | |  | Free |
 | Paul Franzon | | [Digital ASIC Design with Verilog](https://www.youtube.com/playlist?list=PLfGJEQLQIDBN0VsXQ68_FEYyqcym8CTDN) | | | Youtube | | | |  | Free |
 
-#### VHDL
+#### HDLs: VHDL
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

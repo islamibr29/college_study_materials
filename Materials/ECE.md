@@ -55,6 +55,7 @@
 | Dr. Tarek Ibrahim | 2016 | [Modern Physics](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPmJEbTx8UDLZkwT1LKC-pq) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | 17 Hours | Free |
 
 #### Special Relativity
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Leonard Susskind | 2008 | [Modern Physics: Special Relativity](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772) | Stanford University | | Youtube | | | | 14 Hours | Free |
@@ -74,7 +75,8 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-### Circuits
+### Analog Circuits & Electronics
+#### Circuits
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -84,23 +86,47 @@
 | Prof. Anant Agarwal | 2007 | [Circuits And Electronics](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) | Youtube | | | | 21 Hours | Free |
 | Prof. Razavi | | [Basic Circuit Theory I](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x) | University of California | | Youtube | | | | 32 Hours | Free |
 
-### Electronics
+#### Electronics
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-### Digital Logic
+### Digital Logic & Circuits
 #### Logic
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
+#### Circuits
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dr. Jan Rabaey](https://www.linkedin.com/in/jan-rabaey-9966636/) | | [EE141](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7) | UC Berkeley University | [Slides](https://drive.google.com/drive/folders/10hvUT1O2tvxRrzxpA60WKpL2_w9KH395) |  Youtube | | | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | | | [Digital Circuits Lectures](https://www.youtube.com/playlist?list=PL291W0pS_KD056uCeGqg_g7nVeTVUxYKr) | Ain Shams University | [Labs](https://www.youtube.com/playlist?list=PL291W0pS_KD2YA8Ty-ENkoFLq1XcupSVv), [Course Materials](https://drive.google.com/drive/u/0/folders/1-Pz3hgViJgqfFcm9YJaQJE7s7lbYCvN8) | Youtube | | | | | Free |
+
 #### HDLs
+#### Verilog
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Dr. Anas Salah Eddin](https://www.linkedin.com/in/anas-salah-eddin-857b47b/) || [ECE 3300 - Digital Circuit Design Using Verilog](https://www.youtube.com/playlist?list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr) |  Cal Poly Pomona University  | | Youtube | | | |  | Free |
+| | | [Verilog Basics](https://learning.intel.com/Developer/learn/course/external/view/classroom/862/verilog-hdl-basics), [Verilog Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) | Intel | | | | | |  | Free |
+| Paul Franzon | | [Digital ASIC Design with Verilog](https://www.youtube.com/playlist?list=PLfGJEQLQIDBN0VsXQ68_FEYyqcym8CTDN) | | | Youtube | | | |  | Free |
 
-
-### Digital Circuits
+#### VHDL
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| |  | [VHDL Tutorials](https://www.youtube.com/playlist?list=PLyWAP9QBe16p2HXVcyEgGAFicXJI797jK) | Electron Tube | | Youtube | | | |  | Free |
+| | | [VHDL Basics](https://learning.intel.com/developer/learn/course/internal/view/elearning/234/vhdl-basics) | Intel | | | | | |  | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Eng. Khalid Essam](https://www.facebook.com/k.e.elsayed) | | [VHDL Tutorials](https://www.youtube.com/playlist?list=PLSFM7g7ViTRJeN5ifOi6_mE4dMUYft_e4)  | Alexandria University  | [Materials](https://courseske.blogspot.com/) | Youtube | | | |  | Free |
+| Eng. Basma |  | [VHDL Tutorials](https://www.youtube.com/playlist?list=PLFqnMA2Z6e8Rk1T6M16vmxWnEyfiJYTzQ) | Helwan University | | Youtube | | | |  | Free |
 
 ### Signal Processing
 #### Signals and Systems

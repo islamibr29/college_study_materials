@@ -1,4 +1,7 @@
 # Math
+This is not a study plan/roadmap, it's a place where i collect what was useful for me in study period. You can use one of those 2 roadmaps [OSSU](https://github.com/ossu/math) or [The Math Sorcerer](https://www.youtube.com/watch?v=didXE0HkSC8).
+
+Note you have to see those 2 videos to understand the roadmaps [Map of Math: English](https://www.youtube.com/watch?v=OmJ-4B-mS-Y), [Map of Math: Arabic](https://www.youtube.com/watch?v=ytLFlEySfVY).
 
 ## Basic Math
 ### Pre-College Math

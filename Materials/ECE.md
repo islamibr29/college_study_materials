@@ -87,8 +87,10 @@
 | Prof. Razavi | | [Basic Circuit Theory](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x) | University of California | | Youtube | | | | 32 Hours | Free |
 
 #### Electronics
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Razavi | | [Fundamentals of Microelectronics](https://www.youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) | University of California | | Youtube | | | | | Free |
 
 ### Digital Circuits & Electronics
 #### Circuits

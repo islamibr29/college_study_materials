@@ -104,7 +104,7 @@
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | | | [Digital Circuits Lectures](https://www.youtube.com/playlist?list=PL291W0pS_KD056uCeGqg_g7nVeTVUxYKr) | Ain Shams University | [Labs](https://www.youtube.com/playlist?list=PL291W0pS_KD2YA8Ty-ENkoFLq1XcupSVv), [Course Materials](https://drive.google.com/drive/u/0/folders/1-Pz3hgViJgqfFcm9YJaQJE7s7lbYCvN8) | Youtube | | | | | Free |
+| [Dr. Sameh Ibrahim](https://www.linkedin.com/in/samehaibrahim/) | | [Digital Circuits Lectures](https://www.youtube.com/playlist?list=PL291W0pS_KD056uCeGqg_g7nVeTVUxYKr) | Ain Shams University | [Labs](https://www.youtube.com/playlist?list=PL291W0pS_KD2YA8Ty-ENkoFLq1XcupSVv), [Course Materials](https://drive.google.com/drive/u/0/folders/1-Pz3hgViJgqfFcm9YJaQJE7s7lbYCvN8) | Youtube | | | | | Free |
 
 #### HDLs
 #### Verilog

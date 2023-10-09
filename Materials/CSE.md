@@ -1,8 +1,6 @@
 # CSE Fundamentals
-
-This is not a study plan/roadmap for digital design track, it's a place where i collect what was useful for me in study period.
+This is not a study plan/roadmap, it's a place where i collect what was useful for me in study period.
 You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-science), [CIU](https://github.com/jwasham/coding-interview-university), [Roadmap.sh](https://roadmap.sh/computer-science) or [Dr. Mostafa Saad](https://youtu.be/b56XFMNEzAs).
-## Courses
 
 ### Intro to CS
 #### English Courses

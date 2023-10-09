@@ -91,6 +91,7 @@
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Razavi | | [Fundamentals of Microelectronics](https://www.youtube.com/playlist?list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU) | University of California | | Youtube | | | | | Free |
+| Prof. Ali Hajimiri | | [New Analog Circuit Design](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT) | Caltech | | Youtube | | | | | Free |
 
 ### Digital Circuits & Electronics
 #### Circuits

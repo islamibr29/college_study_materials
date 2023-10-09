@@ -84,7 +84,7 @@
 | Dr. Ravel Ammerman | 2013 | [EGGN 281: Introduction to Electric Circuits](https://www.youtube.com/playlist?list=PL8kq5qsK0cc42p-m3eGHiuCi3Xr_ORv9W) | | | Youtube | | | | 31 Hours | Free | 
 | Adam | 2016 | [Circuits](https://www.youtube.com/playlist?list=PLvJZZcg6Js7r8xKTR6lOI6eUmXEHDfGTH) | UConn HKN | | Youtube | not completed | | | 8 Hours | Free |
 | Prof. Anant Agarwal | 2007 | [Circuits And Electronics](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/) | Youtube | | | | 21 Hours | Free |
-| Prof. Razavi | | [Basic Circuit Theory I](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x) | University of California | | Youtube | | | | 32 Hours | Free |
+| Prof. Razavi | | [Basic Circuit Theory](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x) | University of California | | Youtube | | | | 32 Hours | Free |
 
 #### Electronics
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

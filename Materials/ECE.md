@@ -23,6 +23,8 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Amr Mohamed | 2020 | [Introduction to Electromagnetism](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMg3b2x4xpv_AptvvY-Z86g) | Zewail City | | Youtube | | | | 10 Hours | Free |
 | Dr. Tamer AbuElfadl | 2020 | [Electrodynamics I](https://www.youtube.com/playlist?list=PL-XWNe_oYcGP7KQBJO2zVo9Aohd4BqULu) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1iJdiITr88SP7oLIAiTDrHOLPgwlGnp4N?usp=sharing) | Youtube | | | | 24 Hours | Free |
+| | | [Electromagnetics](https://www.youtube.com/playlist?list=PLz346wUtgC37EbsEn3h1PTDcYz_PmxwMJ) | Photonics in Arabic | [Lecture Materials](https://drive.google.com/drive/folders/169eVCE-mSDTqgqaEMIS56syilmFknWBv?usp=sharing)  | Youtube | | | | | Free |
+| | | [Electromagnetic Fields](https://www.youtube.com/playlist?list=PLkOpA9uAb9H25y_JZzGYel9_7IEbeoEY2) | | | Youtube | | | | | Free |
 
 #### Waves
 #### English Courses
@@ -38,23 +40,23 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Mohamed Ismail | 2017 | [Physics III](https://www.youtube.com/playlist?list=PLD30uL4tqplE-3lvM_eqLmyxF9Hp1S_F2) | Zagazig University | | Youtube | | | | 10 Hours | Free |
 
-
 ### Modern Physics
 #### Quantum Mechanics
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Leonard Susskind | 2008 | [Modern Physics: Quantum Mechanics](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841) | Stanford University | | Youtube | | | | 18 Hours | Free |
-| Prof. Barton Zwiebach | 2016 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | Youtube, MIT OCW |  | | | 28 Hours | Free |
-| Prof. Allan Adams | 2013 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) | Youtube, MIT OCW |  | | | 32 Hours | Free |
+| Prof. Barton Zwiebach | 2016 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) | Youtube |  | | | 28 Hours | Free |
+| Prof. Allan Adams | 2013 | [8.04: Quantum Physics I](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) | Youtube |  | | | 32 Hours | Free |
 | Prof. David Miller | | Quantum Mechanics for Scientists and Engineers ([Part1](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-1?index=product&queryID=caea9acc1b89d3178c6736d555091e03&position=1&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-84f89d1e-6533-4d22-a601-2a3e3a9fe3eb&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+1&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch), [Part2](https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-2?index=product&queryID=f6d3ea135f316dd3478bb2f6213d482c&position=2&results_level=first-level-results&term=Quantum+Mechanics+for+Scientists+and+Engineers&objectID=course-81a74e3c-73e8-47bd-8f40-2127f7da7c70&campaign=Quantum+Mechanics+for+Scientists+and+Engineers+2&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)) | Stanford | | edX | | | | | Free |
-
+| | | [Quantum Physics](https://www.youtube.com/playlist?list=PLb8Y66BCLlbzK-9Fj7yn68ZP0HkoN7_lk) | Physics Explained | | Youtube | | | | | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. Micheal | 2017 | [PHM121s: Modern Physics and Quantum Mechanics](https://www.youtube.com/playlist?list=PLffO0PKa_AqHVhar_Tvhx5Wsyhd0p88IH) | Ain Shams University | | Youtube | | | | 13 Hours | Free |
+| Dr. Micheal | 2017 | [PHM121s: Modern Physics and Quantum Mechanics](https://www.youtube.com/playlist?list=PLffO0PKa_AqHVhar_Tvhx5Wsyhd0p88IH) | Ain Shams University | [Problem Set](https://www.youtube.com/playlist?list=PLW9vweYPqGjDCC1LWoeAI-9HbLtgY7fs7) | Youtube | | | | 13 Hours | Free |
 | Dr. Tarek Ibrahim | 2016 | [Modern Physics](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPmJEbTx8UDLZkwT1LKC-pq) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | 17 Hours | Free |
+| Dr. Wael | | [PHM121s Modern Physics & Quantum Mechanics](https://www.youtube.com/playlist?list=PLtgWF1TGtFUGrRlerBuZt-_RPZuRjpN_l)  | Ain Shams University | | Youtube | | | | 13 Hours | Free |
 
 #### Special Relativity
 #### English Courses
@@ -62,6 +64,12 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Leonard Susskind | 2008 | [Modern Physics: Special Relativity](https://www.youtube.com/playlist?list=PLCCD6C043FEC59772) | Stanford University | | Youtube | | | | 14 Hours | Free |
 | | 2021 | [Introduction To Special Relativity](https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/) | MIT | | Youtube | | | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Tarek Ibrahim | 2016 | [Introduction to Special Theory of Relativity ](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPXF5Cd8P0oFvTFIB-7tV_z) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | | Free |
+
 
 ### Solid State
 #### Semiconductor Physics

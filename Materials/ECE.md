@@ -164,12 +164,22 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 
 ### Signal Processing
 #### Signals and Systems
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [6.003 Signals and Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) | MIT | | Youtube | | | |  | Free |
+| Prof. Alan Oppenheim | | [Signals and Systems](https://www.youtube.com/playlist?list=PLADC1A1B7FA7FF7B6) | MIT | Youtube | | | |  | Free |
 
 #### DSP
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Alan Oppenheim | | [RES.6-008 Digital Signal Processing](https://www.youtube.com/playlist?list=PL8157CA8884571BA2) | MIT | Youtube | | | |  | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [Digital Signal Processing ECE-255](https://www.youtube.com/playlist?list=PLGZ7eihNHo7znYME2sbiA-sJ9zU3Ng1rj) | Ain Shams University | Youtube | | | |  | Free |
 
 ### Communication Theory
 #### Analog and Digital Communication

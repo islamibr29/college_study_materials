@@ -166,11 +166,20 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | | | [Digital Signal Processing ECE-255](https://www.youtube.com/playlist?list=PLGZ7eihNHo7znYME2sbiA-sJ9zU3Ng1rj) | Ain Shams University | | Youtube | | | |  | Free |
+| Dr. Mahmoud Abdelaziz | | [Digital Signal Processing](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMgufBBqfYQrB16M21X1jT4) | Zewail City |  | Youtube | | | | | Free |
 
 ### Communication Theory
 #### Analog and Digital Communication
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Ivica Kostanic | | [Digital Communications](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTgEsk7XN1VkpXgZOHTB0dXW) | | | Youtube | | | | | Free |
+| | | [6.450 Principles of Digital Communications](https://www.youtube.com/playlist?list=PL2AD004D035C24F21) | MIT | | Youtube | | | | | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [ECE 254 Analog communications](https://www.youtube.com/playlist?list=PLDifeaWAlc2h-AtXRUrkEODZGpdxHsWhJ) | Ain Shams University | | Youtube | | | | | Free |
 
 #### Wireless Communication
 #### Arabic Courses
@@ -188,6 +197,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 
 
 #### Antenna
+#### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-
+| Dr. Islam Eshra | | [Antenna](https://www.youtube.com/playlist?list=PLBajgtqPAZzAmgTS93UjiJyqMY_5kISOd) | Cairo University | |  Youtube | | | |  | Free |

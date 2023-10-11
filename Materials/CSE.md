@@ -84,6 +84,11 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Adel Nasim | | [Tutorials: Java](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN), [Tutorials: OOP](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) | |  | Youtube | |  | | | Free |
 | Mohamed El-Desouki | | [Tutorials: Java  & OOP](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) | | | Youtube | |  | | | Free |
 
+### Theoretical OOP
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [Object Oriented Programming](https://www.youtube.com/playlist?list=PL5Wavr7Mf8QU2r1cHNVf8iK6sfxEhgtH3) | Al-Azhar University | | Youtube | |  | | | Free | 
 
 ### Data Structures
 #### English Courses
@@ -198,6 +203,10 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 |  | | [Computer Architecture](https://www.coursera.org/learn/comparch)  | Princeton University | | | Advanced | | |  | Free |
 |  | | [Digital Design & Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)  | ETH Zürich University | | | | | | | Free |
 
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| | | [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PL-cKUB-e2KiswAkwZLJYlTzI69FpSJa50) | | |  Youtube | |  | |  | Free |
 
 ### Tools
 #### English Courses
@@ -210,6 +219,7 @@ You can use one of 4 plans/roadmaps  [OSSU](https://github.com/ossu/computer-sci
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Eng. Ahmed Sami ](https://www.linkedin.com/in/ahmed-sami-a173138/) | | [ Git and GitHub](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=339s&ab_channel=%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8ABigData) | Big Data بالعربي | | Youtube | Advanced |  | |  | Free |
+| [Ahmed Elhoseeny](https://uk.linkedin.com/in/ahmed-elhoseeny-57329422) | | [Linux System](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox) | anaHr | | Youtube | Advanced |  | |  | Free |
 
 ### Problem Solving
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)

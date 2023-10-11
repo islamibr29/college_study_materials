@@ -226,3 +226,8 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 - Oscilloscope
 - Function Generator
 - Spectrum Analyzer / Spectroscope
+
+### Nice to Know for lab Projects
+- Prototyping such PCB
+- Simple Microcontroller such Arduino
+- Practical Electronics

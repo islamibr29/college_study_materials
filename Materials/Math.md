@@ -132,7 +132,7 @@ Note you have to see those 2 videos to understand the roadmaps [Map of Math: Eng
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Mervat Mikhail | 2021, 2020 | [Probability and statistics I](https://www.youtube.com/playlist?list=PLoK2Lr1miEm9kxNtClv6c-hsW0QEmskut),   [Probability and statistics II](https://www.youtube.com/playlist?list=PL7snZ0LSsq3g6KzD6pdqwU3_Do8WPY4M8) | Alexandria University | | Youtube |  | | | 14 + 19 = 33 Hours | Free |
-
+| Dr. Ahmed Hagag | | [Probability and Statistics](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-) | Benha University | | Youtube |  | | | | Free |
 
 ### Numerical Analysis
 #### English Courses

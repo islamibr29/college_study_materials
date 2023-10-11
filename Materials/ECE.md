@@ -228,6 +228,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 - Spectrum Analyzer / Spectroscope
 
 ### Nice to Know for lab Projects
+> **Note:** that they're not required here but it will be required for some disciplines like embedded systems
 - Prototyping such PCB
 - Simple Microcontroller such Arduino
 - Practical Electronics

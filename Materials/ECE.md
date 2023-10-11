@@ -17,6 +17,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Prof. Ramamurti Shankar | 2008 | [Fundamentals of Physics II: Quantum Mechanics, and Electromagnetism](https://www.youtube.com/playlist?list=PLD07B2225BB40E582) | Yale University | | Youtube | | | | 30 Hours | Free |
 | Prof. Peter Dourmashkin | 2016 | 8.02SC: Electricity and Magnetism ([part1](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about), [part2](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about), [part3](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about)) | MIT | | Youtube, MIT OCW | | | | 26 Hours | Free |
 | Prof. Matt Anderson | 2021 | [Physics Module 16-20](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=2), [Physics Module 21-29](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=3) |  | | Youtube | | | | 21 Hours | Free |
+| Jordan Edmunds | | [Introductory Electromagnetism](https://www.youtube.com/playlist?list=PLQms29D1RqeIkCoDbrtcZZ-u8LNYhs5In) |  | | Youtube | | | | 21 Hours | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
@@ -56,7 +57,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Micheal | 2017 | [PHM121s: Modern Physics and Quantum Mechanics](https://www.youtube.com/playlist?list=PLffO0PKa_AqHVhar_Tvhx5Wsyhd0p88IH) | Ain Shams University | [Problem Set](https://www.youtube.com/playlist?list=PLW9vweYPqGjDCC1LWoeAI-9HbLtgY7fs7) | Youtube | | | | 13 Hours | Free |
 | Dr. Tarek Ibrahim | 2016 | [Modern Physics](https://www.youtube.com/playlist?list=PL-XWNe_oYcGPmJEbTx8UDLZkwT1LKC-pq) | Zewail City | [Lecture Materials](https://drive.google.com/drive/folders/1XAjJsILbVZMP2eJW8NINcj8ePbICxBzx?usp=sharing) | Youtube | | | | 17 Hours | Free |
-| Dr. Wael | | [PHM121s Modern Physics & Quantum Mechanics](https://www.youtube.com/playlist?list=PLtgWF1TGtFUGrRlerBuZt-_RPZuRjpN_l)  | Ain Shams University | | Youtube | | | | 13 Hours | Free |
+| Dr. Wael | | [PHM121s Modern Physics & Quantum Mechanics](https://www.youtube.com/playlist?list=PLtgWF1TGtFUGrRlerBuZt-_RPZuRjpN_l)  | Ain Shams University | | Youtube | | | | | Free |
 
 #### Special Relativity
 #### English Courses
@@ -80,10 +81,27 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Prof. Sandro Scandolo | 2012 | [Solid State Physics SISSA](https://www.youtube.com/playlist?list=PLd9hKAUC3AZvJsxR00ZJqBmabGfNScHu0) | ICTP | | Youtube | | | | 28 Hours | Free |
 | Prof. Jeffrey C. Grossman | 2018 | [3.091: Introduction to Solid-State Chemistry](https://www.youtube.com/playlist?list=PLUl4u3cNGP63z5HAguqleEbsICfHgDPaG) | MIT | [Lecture Materials](https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/) | Youtube, MIT OCW | | | | 31 Hours | Free |
 | Prof. Steven H. Simon | 2013 | [Solid State Physics](https://www.youtube.com/playlist?list=PLd9hKAUC3AZuo7is-aN45pmfDwJHOqKAj) | Oxford University | | Youtube | | | | 18 Hours | Free |
+| | |  [Semiconductor Fundamentals](https://www.youtube.com/playlist?list=PLtkeUZItwHK4CUb6QuSOHJqMFjc8ITxmZ) | Purdue University | | Youtube | | | |  | Free |
 
-#### Semiconductor Devices
+#### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Wael | | [PHM122s Physics of Semiconductors](https://www.youtube.com/playlist?list=PLtgWF1TGtFUGUJCuxKXOkkLjb1Z_yH11K) | Ain Shams University | | Youtube | | | | | Free |
+
+#### Semiconductor Devices
+#### English Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Jordan Edmunds | | [Semiconductor Physics and Devices](https://www.youtube.com/playlist?list=PLQms29D1RqeKGBEW8La2a7YuN5_4pSV4k) |  | | Youtube | | | |  | Free |
+| | |  [ECE 606 Solid State Devices](https://www.youtube.com/playlist?list=PLtkeUZItwHK4Y5WBNdkc5zKUi3m3WbGHo) | Purdue University | | Youtube | | | |  | Free |
+| | | [ECE 5550: Solid State Electronics](https://www.youtube.com/playlist?list=PLqYqvTonHe8-OvB045oBvDkqp2JTUmKyG) | Wayne State University | | Youtube | | | |  | Free |
+| | | [Semiconductor Device Fundamentals](https://www.youtube.com/playlist?list=PLBe_TIITFkIqB1oFhbqW0oqg4JqDDBC34) | Keio University | | Youtube | | | |  | Free |
+
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Mohamed Abouelatta | | [ECE 213: solid state electronic devices](https://www.youtube.com/playlist?list=PLDifeaWAlc2jQCDjRXHxSRya2np0GjowZ) | Ain Shams University | | Youtube | | | |  | Free | 
+| | | [Semiconductor Devices](https://www.youtube.com/playlist?list=PLGdHiR1l2JIfbTiBgUQRZSDfye8xzwJwo) | Mentor Academy | | Youtube | | | |  | Free | 
 
 ### Analog Circuits & Electronics
 #### Circuits

@@ -209,7 +209,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Dr. Islam Eshra | | [Antenna](https://www.youtube.com/playlist?list=PLBajgtqPAZzAmgTS93UjiJyqMY_5kISOd) | Cairo University | |  Youtube | | | |  | Free |
 
 ### Required Softwares
-> Note: that there're a lot of others simulation softwares you can need or learn but those are the most common
+> **Note:** that there're a lot of other simulation softwares you can need or learn but those are the most common
 - Matlab
 - Xilinx Vivado
 - Modelsim

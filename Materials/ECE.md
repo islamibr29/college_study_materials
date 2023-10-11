@@ -179,7 +179,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| | | [Digital Signal Processing ECE-255](https://www.youtube.com/playlist?list=PLGZ7eihNHo7znYME2sbiA-sJ9zU3Ng1rj) | Ain Shams University | Youtube | | | |  | Free |
+| | | [Digital Signal Processing ECE-255](https://www.youtube.com/playlist?list=PLGZ7eihNHo7znYME2sbiA-sJ9zU3Ng1rj) | Ain Shams University | | Youtube | | | |  | Free |
 
 ### Communication Theory
 #### Analog and Digital Communication

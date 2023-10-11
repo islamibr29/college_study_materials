@@ -218,3 +218,11 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 - OrCAD
 - Proteus
 - Altium Designer
+
+### Required Equipment
+> **Note:** that there're a lot of other equipment softwares you can need or learn but those are the most common
+- Multimeter
+- Logic / Protocol Analyzer
+- Oscilloscope
+- Function Generator
+- Spectrum Analyzer / Spectroscope

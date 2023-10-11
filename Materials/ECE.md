@@ -9,7 +9,6 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | | | [6.01SC Introduction to EECS](https://www.youtube.com/playlist?list=PL9B24A6A9D5754E70) | MIT | [Lecture Materials, Assignment ](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/) | Youtube | | | | | Free |
 
 ### Electromagntism
-#### Fields
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -27,19 +26,6 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | | | [Electromagnetics](https://www.youtube.com/playlist?list=PLz346wUtgC37EbsEn3h1PTDcYz_PmxwMJ) | Photonics in Arabic | [Lecture Materials](https://drive.google.com/drive/folders/169eVCE-mSDTqgqaEMIS56syilmFknWBv?usp=sharing)  | Youtube | | | | | Free |
 | | | [Electromagnetic Fields](https://www.youtube.com/playlist?list=PLkOpA9uAb9H25y_JZzGYel9_7IEbeoEY2) | | | Youtube | | | | | Free |
 
-#### Waves
-#### English Courses
-| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prof. Yen-Jie Lee | 2016 | [8.03SC: Physics III: Vibrations And Waves](https://www.youtube.com/playlist?list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx) | MIT | [Lecture Materials, Assignments](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/) | Youtube, MIT OCW | | | | 31 Hours | Free |
-| Prof. Walter Lewin | 2004 | [8.03 - MIT Physics III: Vibrations and Waves](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89) | MIT | [Homework, Exams, Solutions & Lecture Notes](https://www.youtube.com/playlist?list=PLyQSN7X0ro21aOsJf4OYLbtTMvU45k7bS) | Youtube | Each lecture have homework in description | | | 31 Hours | Free |
-| Prof. Frank Porter | 2020 | [Ph2a: Vibrations and Waves](https://www.youtube.com/playlist?list=PL8_xPU5epJddx_jh8YrBg-aCbKim8w0xm) | Caltech | [Lecture Materials, Assignments](http://waves.caltech.edu/) | Youtube | | | | 34 Hours | Free |
-
-
-#### Arabic Courses
-| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Dr. Mohamed Ismail | 2017 | [Physics III](https://www.youtube.com/playlist?list=PLD30uL4tqplE-3lvM_eqLmyxF9Hp1S_F2) | Zagazig University | | Youtube | | | | 10 Hours | Free |
 
 ### Modern Physics
 #### Quantum Mechanics

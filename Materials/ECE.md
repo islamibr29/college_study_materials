@@ -217,3 +217,5 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 - OrCAD
 - Proteus
 - Altium Designer
+
+> Note that there're a lot of others simulation softwares you can need or learn but those are the most common

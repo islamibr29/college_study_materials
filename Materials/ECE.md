@@ -127,6 +127,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Dr. Jan Rabaey](https://www.linkedin.com/in/jan-rabaey-9966636/) | | [EE141](https://www.youtube.com/playlist?list=PLFB6AB660B2B2F7A7) | UC Berkeley University | [Slides](https://drive.google.com/drive/folders/10hvUT1O2tvxRrzxpA60WKpL2_w9KH395) |  Youtube | | | | | Free |
+| | | [Digital IC](https://archive.nptel.ac.in/courses/108/106/108106158/#) | NPTEL | | Youtube | | | | | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

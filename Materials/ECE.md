@@ -173,13 +173,19 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 #### Wireless Communication
+#### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Dr. Michael Ibrahim | | [Wireless Communication Networks](https://www.youtube.com/playlist?list=PLn8yg3bTmnBN7ZeZc8RzsXnZlO1wyunp1) | Ain Shams University | | Youtube | | | |  | Free |
+| Dr. Ali Muqaibel | | [Wireless Communications](https://www.youtube.com/playlist?list=PLlQim6boihdgIdnLeVe34070cu899Le0c) | | | Youtube | | | |  | Free |
 
 ### Microwave Theory
 #### Microwave
+#### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Prof. Ahmed M. Attiya | | [Microwave Engineering](https://www.youtube.com/playlist?list=PL5Lcr54DawvTYRPX9k3YIuDhluuI7onZV) | Electronics Research Institute | |  Youtube | | | |  | Free |
+
 
 #### Antenna
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

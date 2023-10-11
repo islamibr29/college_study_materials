@@ -207,3 +207,13 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Islam Eshra | | [Antenna](https://www.youtube.com/playlist?list=PLBajgtqPAZzAmgTS93UjiJyqMY_5kISOd) | Cairo University | |  Youtube | | | |  | Free |
+
+### Required Softwares
+- Matlab
+- Xilinx Vivado
+- Modelsim
+- PSpice
+- Cadence
+- OrCAD
+- Proteus
+- Altium Designer

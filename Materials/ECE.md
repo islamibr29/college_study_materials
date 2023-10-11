@@ -135,6 +135,12 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | | | [Verilog Basics](https://learning.intel.com/Developer/learn/course/external/view/classroom/862/verilog-hdl-basics), [Verilog Advanced](https://learning.intel.com/Developer/learn/course/external/view/classroom/861/verilog-hdl-advanced) | Intel | | | | | |  | Free |
 | Paul Franzon | | [Digital ASIC Design with Verilog](https://www.youtube.com/playlist?list=PLfGJEQLQIDBN0VsXQ68_FEYyqcym8CTDN) | | | Youtube | | | |  | Free |
 
+#### Arabic Courses
+| Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+|  [Dr. Ayman Wahba](https://www.linkedin.com/in/ayman-wahba-a8661a6/) |  | [Design Verification using System Verilog](https://www.youtube.com/playlist?list=PLBt5ZQGn4YKSzHy-MOpaUa4YYgGg798Kc) | Ain Shams University | | Youtube | | | |  | Free |
+
+
 #### HDLs: VHDL
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

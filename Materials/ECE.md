@@ -1,5 +1,5 @@
 # ECE Fundamentals
-This is not a study plan/roadmap, it's a place where i collect what was useful for me in study period.
+This is not a study plan/roadmap, it's a place where I collect what was useful for me in study period.
 You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 
 ### Intro to EE

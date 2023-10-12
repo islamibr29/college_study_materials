@@ -17,6 +17,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Prof. Peter Dourmashkin | 2016 | 8.02SC: Electricity and Magnetism ([part1](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about), [part2](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about), [part3](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about)) | MIT | | Youtube, MIT OCW | | | | 26 Hours | Free |
 | Prof. Matt Anderson | 2021 | [Physics Module 16-20](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=2), [Physics Module 21-29](https://www.youtube.com/@yoprofmatt/playlists?view=50&shelf_id=3) |  | | Youtube | | | | 21 Hours | Free |
 | Jordan Edmunds | | [Introductory Electromagnetism](https://www.youtube.com/playlist?list=PLQms29D1RqeIkCoDbrtcZZ-u8LNYhs5In) |  | | Youtube | | | | 21 Hours | Free |
+| | | [Electromagnetism](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_OXWtn1RUnuZNSbSSy6Lys) | NPTEL | | Youtube | | | | 21 Hours | Free |
 
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |

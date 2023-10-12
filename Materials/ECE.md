@@ -209,7 +209,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Dr. Islam Eshra | | [Antenna](https://www.youtube.com/playlist?list=PLBajgtqPAZzAmgTS93UjiJyqMY_5kISOd) | Cairo University | |  Youtube | | | |  | Free |
 
-### Required Softwares
+### Required Softwares Skills
 > **Note:** that there're a lot of other simulation softwares you can need or learn but those are the most common
 - Matlab
 - Xilinx Vivado
@@ -219,8 +219,10 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 - OrCAD
 - Proteus
 - Altium Designer
+- Multisim
+- LTspice
 
-### Required Equipment
+### Required Equipment Skills ([Instrumentation Skills](https://www.youtube.com/playlist?list=PLbRMhDVUMngcoKrA4sH-zvbNVSE6IpEio))
 > **Note:** that there're a lot of other equipment softwares you can need or learn but those are the most common
 - Multimeter
 - Logic / Protocol Analyzer

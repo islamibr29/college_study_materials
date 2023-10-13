@@ -215,7 +215,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 - Xilinx Vivado
 - Modelsim
 - PSpice
-- Cadence
+- Cadence Virtuoso
 - OrCAD
 - Proteus
 - Altium Designer

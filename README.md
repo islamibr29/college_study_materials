@@ -30,6 +30,9 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Scientific Research**]()
 - [**Entrepreneurship**]()
 
+### Side Stuff
+- [**Side Subjects**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
+
 ## 💡 Illuminate the Cosmos
 
 In this boundless cosmos of knowledge, illumination knows no bounds. Together, we shall unveil the secrets of the universe, unravel the mysteries of science, and illuminate our minds with the brilliance of wisdom.
@@ -41,3 +44,4 @@ Let us ascend beyond the limitations of ordinary mortals and embrace the spirit 
 ## 📞 Join the Galactic Council
 
 Seeking fellow cosmic explorers! Join the Galactic Council of knowledge seekers, and let our collective wisdom ignite a beacon of inspiration across the universe. [Reach out](https://linktr.ee/islamibr) to me at [islamibr@outlook.com](mailto:islamibr@outlook.com) or find me on [LinkedIn](https://www.linkedin.com/in/islamibr).
+ 

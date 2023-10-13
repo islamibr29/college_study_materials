@@ -29,7 +29,7 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**Useful Materials**]()
 - [**Scientific Research**]()
 - [**Entrepreneurship**]()
-- [**Soft Skills**]()
+- [**Personal Skills**]()
 - [**Side Subjects**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 
 ## 💡 Illuminate the Cosmos

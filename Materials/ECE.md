@@ -176,13 +176,14 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 | Dr. Mahmoud Abdelaziz | | [Digital Signal Processing](https://www.youtube.com/playlist?list=PL-XWNe_oYcGMgufBBqfYQrB16M21X1jT4) | Zewail City |  | Youtube | | | | | Free |
 
 ### Communication Theory
-#### Analog and Digital Communication
+#### Digital Communication
 #### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Ivica Kostanic | | [Digital Communications](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTgEsk7XN1VkpXgZOHTB0dXW) | | | Youtube | | | | | Free |
 | | | [6.450 Principles of Digital Communications](https://www.youtube.com/playlist?list=PL2AD004D035C24F21) | MIT | | Youtube | | | | | Free |
 
+#### Analog Communication
 #### Arabic Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |

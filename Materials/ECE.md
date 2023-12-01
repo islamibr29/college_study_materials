@@ -198,7 +198,7 @@ You can use this [map](https://youtu.be/89NJj1F_qmQ?si=o85abhfJBA6LbPyr).
 
 ### Microwave Theory
 #### Microwave
-#### Arabic Courses
+#### English Courses
 | Instructor | Date | Title | Institute | Course Materials | Platform | Note | Content Type | Prerequisites | Duration | Cost |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prof. Ahmed M. Attiya | | [Microwave Engineering](https://www.youtube.com/playlist?list=PL5Lcr54DawvTYRPX9k3YIuDhluuI7onZV) | Electronics Research Institute | |  Youtube | | | |  | Free |

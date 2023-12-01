@@ -12,24 +12,9 @@ Unleash the power of your curiosity as we traverse the multidimensional tapestry
 - [**CSE Fundamentals**](https://github.com/islamibr/College/blob/main/Materials/CSE.md)
 - [**Mathematics**](https://github.com/islamibr/College/blob/main/Materials/Math.md)
 
-### ECE Disciplines
-- [**Microelectronics**]()
-- [**Semiconductor Photonics**]()
-- [**Telecommunications**]()
-
-### CSE Disciplines
-- [**Data Science**]()
-- [**Software Engineering**]()
-- [**IT Engineering**]()
-
-### Mutual Disciplines
-- [**Electronic Systems**]()
-
 ### Other Stuff
-- [**Useful Materials**]()
-- [**Scientific Research**]()
-- [**Entrepreneurship**]()
-- [**Personal Skills**]()
+- [**Useful Materials**]([t.me/](https://t.me/realislamibr))
+- [**Map of ECE**](https://www.figma.com/file/AlW9VsjuZWQmK0dJGOmH7l/Map-of-ECE?type=whiteboard&node-id=1121%3A506&t=d7EGUGjAYRBqCxff-1)
 - [**Side Subjects**](https://github.com/islamibr/College/blob/main/Materials/Other.md)
 
 ## 💡 Illuminate the Cosmos
@@ -42,5 +27,5 @@ Let us ascend beyond the limitations of ordinary mortals and embrace the spirit 
 
 ## 📞 Join the Galactic Council
 
-Seeking fellow cosmic explorers! Join the Galactic Council of knowledge seekers, and let our collective wisdom ignite a beacon of inspiration across the universe. [Reach out](https://linktr.ee/islamibr) to me at [islamibr@outlook.com](mailto:islamibr@outlook.com) or find me on [LinkedIn](https://www.linkedin.com/in/islamibr).
+Seeking fellow cosmic explorers! Join the Galactic Council of knowledge seekers, and let our collective wisdom ignite a beacon of inspiration across the universe. [Reach out](https://linktr.ee/islamibr) to me at [islamibr@outlook.com](mailto:islamibr@outlook.com).
  
